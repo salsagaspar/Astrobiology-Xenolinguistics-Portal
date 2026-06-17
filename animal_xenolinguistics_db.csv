@@ -1,0 +1,201 @@
+record_id,species_scientific,species_common,communication_type,frequency_range_hz,vocabulary_size_estimated,syntax_complexity_score,social_structure,learning_capability,alien_analog_score,geographic_region,study_institution,communication_modality,inter_species_transfer,xenolinguistics_relevance_score
+XL-0001,Corvus corax,Common Raven,visual_chromatic,367.52-14846.51,3137,1.22,eusocial,Innate,3.39,Atlantic Ocean,Max Planck Evolutionary Anthropology,vocal,No,8.58
+XL-0002,Cephalopod octopus,Common Octopus,visual_chromatic,546.66-2905.46,1870,1.89,matriarchal,Learned,1.34,Amazon Rainforest,Max Planck Evolutionary Anthropology,gestural,No,3.25
+XL-0003,Myrmecocystus mimicus,Honeypot Ant,visual_chromatic,815.57-20669.86,1566,7.35,patriarchal,Mixed,7.66,Arctic,Project CETI / CUNY,chemical,No,8.4
+XL-0004,Cacatua sulphurea,Yellow-crested Cockatoo,tactile,996.84-28430.89,102,5.25,pair_bond,Innate,8.79,Amazon Rainforest,Smithsonian NMNH,electrical,Yes,5.27
+XL-0005,Cephalopod octopus,Common Octopus,electrical,587.01-16657.59,3784,4.07,matriarchal,Learned,8.61,South Asia,Cornell Lab of Ornithology,gestural,No,5.05
+XL-0006,Cephalopod octopus,Common Octopus,chemical,30.11-4145.77,2508,9.49,matriarchal,Learned,8.29,Mediterranean,Max Planck Evolutionary Anthropology,gestural,No,4.83
+XL-0007,Cacatua sulphurea,Yellow-crested Cockatoo,tactile,403.37-23006.16,2459,3.93,matriarchal,Mixed,8.07,Sub-Saharan Africa,SETI Institute,chemical,No,9.82
+XL-0008,Psittacus erithacus,African Grey Parrot,electrical,948.69-2889.89,1547,5.27,fission_fusion,Mixed,9.66,Arctic,Cambridge Zoology Lab,gestural,Yes,7.07
+XL-0009,Pan troglodytes,Chimpanzee,electrical,32.07-20044.88,224,2.68,matriarchal,Learned,3.55,Amazon Rainforest,Woods Hole Oceanographic,electrical,Yes,5.09
+XL-0010,Elephas maximus,Asian Elephant,electrical,518.54-5584.3,3208,2.41,matriarchal,Innate,5.83,Australia,Cambridge Zoology Lab,bioluminescent,Yes,2.17
+XL-0011,Psittacus erithacus,African Grey Parrot,multimodal,309.76-24046.96,3894,2.43,pair_bond,Learned,6.29,Australia,Woods Hole Oceanographic,gestural,Yes,9.92
+XL-0012,Apis mellifera,Honey Bee,chemical,63.98-11701.93,4312,3.96,pair_bond,Learned,5.14,Pacific Ocean,Cambridge Zoology Lab,chemical,No,4.12
+XL-0013,Zalophus californianus,California Sea Lion,tactile,711.65-9407.92,1439,4.74,patriarchal,Mixed,7.6,Australia,Cornell Lab of Ornithology,electrical,Yes,7.29
+XL-0014,Tursiops truncatus,Bottlenose Dolphin,chemical,393.56-27823.92,1298,3.46,solitary,Mixed,3.63,Atlantic Ocean,Smithsonian NMNH,bioluminescent,No,9.93
+XL-0015,Cephalopod octopus,Common Octopus,acoustic,121.24-10877.6,4137,7.9,fission_fusion,Learned,5.06,Arctic,Smithsonian NMNH,vibrational,Yes,5.16
+XL-0016,Tursiops truncatus,Bottlenose Dolphin,electrical,638.87-20264.35,3127,4.09,eusocial,Innate,4.57,Pacific Ocean,Woods Hole Oceanographic,vocal,Yes,3.94
+XL-0017,Myrmecocystus mimicus,Honeypot Ant,acoustic,464.25-13897.47,4497,6.91,solitary,Learned,2.26,Arctic,SETI Institute,gestural,Yes,6.46
+XL-0018,Pan troglodytes,Chimpanzee,electrical,294.15-15845.65,1384,1.7,matriarchal,Mixed,3.46,Australia,Max Planck Evolutionary Anthropology,gestural,Yes,7.43
+XL-0019,Papio hamadryas,Hamadryas Baboon,multimodal,675.05-7022.26,396,8.53,pair_bond,Mixed,6.96,Atlantic Ocean,Cornell Lab of Ornithology,electrical,No,5.0
+XL-0020,Balaenoptera musculus,Blue Whale,chemical,4.68-22427.32,2050,4.37,patriarchal,Innate,1.82,South Asia,Project CETI / CUNY,vocal,No,8.38
+XL-0021,Megaptera novaeangliae,Humpback Whale,acoustic,668.95-7143.36,1380,7.52,matriarchal,Learned,5.61,Mediterranean,Max Planck Evolutionary Anthropology,vibrational,Yes,6.62
+XL-0022,Papio hamadryas,Hamadryas Baboon,acoustic,541.71-27776.59,1908,2.92,fission_fusion,Learned,2.56,South Asia,Max Planck Evolutionary Anthropology,vocal,No,2.91
+XL-0023,Psittacus erithacus,African Grey Parrot,multimodal,66.03-23721.98,3027,1.4,patriarchal,Learned,3.71,Australia,Cambridge Zoology Lab,electrical,Yes,3.27
+XL-0024,Tursiops truncatus,Bottlenose Dolphin,multimodal,599.87-29062.79,3188,7.1,solitary,Innate,3.99,Mediterranean,MIT CSAIL,vocal,No,1.16
+XL-0025,Papio hamadryas,Hamadryas Baboon,multimodal,585.04-11735.57,1909,5.53,solitary,Innate,3.09,Atlantic Ocean,Woods Hole Oceanographic,gestural,No,7.82
+XL-0026,Balaenoptera musculus,Blue Whale,electrical,79.4-4154.75,2434,2.82,eusocial,Innate,6.78,Amazon Rainforest,MIT CSAIL,electrical,No,2.21
+XL-0027,Elephas maximus,Asian Elephant,tactile,643.61-22721.88,3403,6.83,fission_fusion,Innate,3.06,Mediterranean,Max Planck Evolutionary Anthropology,gestural,Yes,5.85
+XL-0028,Papio hamadryas,Hamadryas Baboon,multimodal,917.68-29581.75,1827,6.47,eusocial,Mixed,3.89,Australia,Project CETI / CUNY,vocal,No,1.63
+XL-0029,Psittacus erithacus,African Grey Parrot,chemical,52.12-28821.28,1033,1.83,pair_bond,Mixed,8.48,Amazon Rainforest,Smithsonian NMNH,vibrational,Yes,4.84
+XL-0030,Apis mellifera,Honey Bee,chemical,311.47-21267.84,3478,2.59,patriarchal,Learned,3.57,Australia,Smithsonian NMNH,chemical,No,1.72
+XL-0031,Elephas maximus,Asian Elephant,electrical,398.25-5346.69,3467,5.55,solitary,Learned,7.84,Australia,Project CETI / CUNY,bioluminescent,No,8.69
+XL-0032,Cacatua sulphurea,Yellow-crested Cockatoo,tactile,906.46-9683.15,1256,5.98,patriarchal,Learned,4.42,Arctic,MIT CSAIL,chemical,No,6.06
+XL-0033,Apis mellifera,Honey Bee,electrical,71.95-4121.32,1608,2.39,patriarchal,Innate,1.12,Mediterranean,MIT CSAIL,bioluminescent,No,9.46
+XL-0034,Myrmecocystus mimicus,Honeypot Ant,multimodal,373.15-14621.18,4824,1.64,matriarchal,Innate,4.46,Sub-Saharan Africa,Smithsonian NMNH,bioluminescent,No,7.94
+XL-0035,Cacatua sulphurea,Yellow-crested Cockatoo,electrical,722.25-15549.93,3021,7.27,solitary,Learned,9.34,Amazon Rainforest,Smithsonian NMNH,bioluminescent,Yes,9.29
+XL-0036,Elephas maximus,Asian Elephant,multimodal,630.96-20279.66,1216,3.35,eusocial,Mixed,2.33,Amazon Rainforest,SETI Institute,vocal,Yes,7.94
+XL-0037,Megaptera novaeangliae,Humpback Whale,multimodal,711.61-11919.26,4806,9.77,matriarchal,Mixed,9.19,South Asia,SETI Institute,bioluminescent,No,7.23
+XL-0038,Cephalopod octopus,Common Octopus,electrical,967.68-20097.93,4806,3.77,eusocial,Mixed,8.82,Atlantic Ocean,Max Planck Evolutionary Anthropology,gestural,No,7.74
+XL-0039,Papio hamadryas,Hamadryas Baboon,acoustic,748.29-21049.65,1384,8.35,matriarchal,Innate,1.63,South Asia,Stanford HAI,bioluminescent,No,7.6
+XL-0040,Pan troglodytes,Chimpanzee,chemical,176.41-5663.37,1627,5.38,pair_bond,Innate,5.06,Amazon Rainforest,SETI Institute,gestural,Yes,7.75
+XL-0041,Cacatua sulphurea,Yellow-crested Cockatoo,electrical,759.17-8354.44,3615,6.64,pair_bond,Innate,8.82,Sub-Saharan Africa,Cambridge Zoology Lab,chemical,Yes,4.4
+XL-0042,Orcinus orca,Killer Whale,chemical,64.27-1021.64,3919,5.37,matriarchal,Innate,1.55,Pacific Ocean,Project CETI / CUNY,vocal,Yes,5.7
+XL-0043,Physeter macrocephalus,Sperm Whale,visual_chromatic,375.67-15505.81,3985,5.26,fission_fusion,Mixed,4.87,Mediterranean,Max Planck Evolutionary Anthropology,chemical,Yes,9.47
+XL-0044,Megaptera novaeangliae,Humpback Whale,visual_chromatic,398.48-18150.86,2710,8.26,matriarchal,Learned,8.83,South Asia,SETI Institute,vocal,Yes,8.82
+XL-0045,Orcinus orca,Killer Whale,chemical,951.06-22767.67,3023,5.07,solitary,Mixed,8.83,South Asia,Smithsonian NMNH,vocal,No,1.15
+XL-0046,Elephas maximus,Asian Elephant,multimodal,873.44-28994.81,2671,7.1,patriarchal,Mixed,5.36,Atlantic Ocean,Max Planck Evolutionary Anthropology,bioluminescent,No,9.88
+XL-0047,Zalophus californianus,California Sea Lion,electrical,699.5-3702.67,2412,6.46,solitary,Innate,8.83,Pacific Ocean,SETI Institute,bioluminescent,Yes,3.71
+XL-0048,Megaptera novaeangliae,Humpback Whale,electrical,996.3-29626.95,1381,9.07,matriarchal,Learned,6.96,Amazon Rainforest,Smithsonian NMNH,gestural,Yes,7.78
+XL-0049,Megaptera novaeangliae,Humpback Whale,multimodal,699.91-3847.98,244,2.44,fission_fusion,Learned,7.9,Amazon Rainforest,Woods Hole Oceanographic,electrical,No,9.56
+XL-0050,Megaptera novaeangliae,Humpback Whale,tactile,123.11-4146.47,4035,1.81,solitary,Learned,8.85,Atlantic Ocean,Max Planck Evolutionary Anthropology,bioluminescent,No,6.89
+XL-0051,Cacatua sulphurea,Yellow-crested Cockatoo,chemical,561.9-25404.38,1836,3.33,fission_fusion,Innate,2.0,Mediterranean,Smithsonian NMNH,electrical,Yes,6.16
+XL-0052,Pan troglodytes,Chimpanzee,tactile,853.33-28525.91,18,3.8,pair_bond,Mixed,2.71,South Asia,Cornell Lab of Ornithology,chemical,No,8.18
+XL-0053,Papio hamadryas,Hamadryas Baboon,tactile,796.57-15917.38,4844,3.0,eusocial,Innate,5.84,Australia,Max Planck Evolutionary Anthropology,gestural,No,8.53
+XL-0054,Apis mellifera,Honey Bee,visual_chromatic,679.98-5040.57,1199,7.72,solitary,Innate,6.39,Arctic,Stanford HAI,electrical,Yes,3.46
+XL-0055,Zalophus californianus,California Sea Lion,chemical,706.53-14628.9,4060,3.62,eusocial,Innate,9.83,Mediterranean,SETI Institute,electrical,Yes,8.63
+XL-0056,Papio hamadryas,Hamadryas Baboon,acoustic,810.42-21152.19,1471,8.71,solitary,Learned,3.69,Sub-Saharan Africa,Project CETI / CUNY,vibrational,No,4.04
+XL-0057,Megaptera novaeangliae,Humpback Whale,electrical,473.43-10639.51,3208,1.65,solitary,Learned,3.54,Amazon Rainforest,Stanford HAI,bioluminescent,Yes,2.18
+XL-0058,Cacatua sulphurea,Yellow-crested Cockatoo,acoustic,791.28-25914.5,2495,5.12,patriarchal,Mixed,2.24,Australia,Woods Hole Oceanographic,gestural,Yes,2.96
+XL-0059,Myrmecocystus mimicus,Honeypot Ant,visual_chromatic,195.66-19116.44,4720,1.92,patriarchal,Learned,9.55,South Asia,SETI Institute,vocal,Yes,4.2
+XL-0060,Apis mellifera,Honey Bee,tactile,179.64-1796.08,2777,6.34,patriarchal,Mixed,7.5,Amazon Rainforest,Project CETI / CUNY,vocal,Yes,4.57
+XL-0061,Orcinus orca,Killer Whale,multimodal,687.99-28374.64,3080,7.98,solitary,Mixed,1.81,Australia,Cornell Lab of Ornithology,chemical,No,4.31
+XL-0062,Tursiops truncatus,Bottlenose Dolphin,multimodal,116.64-3743.93,4180,3.02,pair_bond,Mixed,9.89,Australia,Woods Hole Oceanographic,electrical,Yes,8.15
+XL-0063,Pan troglodytes,Chimpanzee,multimodal,383.97-29382.65,3557,3.69,patriarchal,Innate,3.93,Sub-Saharan Africa,Cornell Lab of Ornithology,electrical,Yes,4.54
+XL-0064,Zalophus californianus,California Sea Lion,electrical,536.42-24108.89,528,5.67,pair_bond,Mixed,7.42,Atlantic Ocean,Smithsonian NMNH,electrical,Yes,2.63
+XL-0065,Balaenoptera musculus,Blue Whale,electrical,695.22-949.08,2579,2.11,patriarchal,Mixed,2.86,Sub-Saharan Africa,Cambridge Zoology Lab,vibrational,No,8.66
+XL-0066,Physeter macrocephalus,Sperm Whale,visual_chromatic,84.62-3788.94,2983,9.7,patriarchal,Learned,9.79,Pacific Ocean,Smithsonian NMNH,chemical,Yes,9.52
+XL-0067,Cephalopod octopus,Common Octopus,tactile,904.62-9483.79,3649,2.26,eusocial,Mixed,3.82,Mediterranean,Stanford HAI,vibrational,Yes,7.19
+XL-0068,Megaptera novaeangliae,Humpback Whale,chemical,819.77-7771.97,1165,3.7,patriarchal,Innate,6.42,Amazon Rainforest,Max Planck Evolutionary Anthropology,chemical,Yes,7.56
+XL-0069,Corvus corax,Common Raven,electrical,74.37-7542.93,1342,4.6,matriarchal,Learned,7.09,Sub-Saharan Africa,Stanford HAI,gestural,Yes,6.67
+XL-0070,Orcinus orca,Killer Whale,chemical,995.36-21232.96,3053,6.07,solitary,Mixed,6.44,South Asia,SETI Institute,chemical,No,4.41
+XL-0071,Balaenoptera musculus,Blue Whale,tactile,247.51-8154.13,906,7.16,eusocial,Innate,3.96,Atlantic Ocean,Max Planck Evolutionary Anthropology,chemical,No,2.32
+XL-0072,Cacatua sulphurea,Yellow-crested Cockatoo,electrical,225.77-610.82,1825,4.41,matriarchal,Innate,2.58,Arctic,MIT CSAIL,vocal,No,7.3
+XL-0073,Zalophus californianus,California Sea Lion,acoustic,282.0-8215.46,397,2.54,eusocial,Innate,4.11,South Asia,MIT CSAIL,vibrational,Yes,3.33
+XL-0074,Megaptera novaeangliae,Humpback Whale,chemical,513.57-5107.27,1173,4.41,solitary,Learned,1.48,Mediterranean,Smithsonian NMNH,electrical,No,7.36
+XL-0075,Pan troglodytes,Chimpanzee,electrical,438.97-10769.61,4119,3.58,eusocial,Mixed,9.48,Amazon Rainforest,Woods Hole Oceanographic,electrical,Yes,9.53
+XL-0076,Corvus corax,Common Raven,multimodal,770.58-25298.18,656,1.69,patriarchal,Innate,2.49,Pacific Ocean,Cambridge Zoology Lab,electrical,No,5.99
+XL-0077,Apis mellifera,Honey Bee,electrical,808.35-1217.43,4172,9.39,patriarchal,Learned,5.48,Atlantic Ocean,Cornell Lab of Ornithology,vocal,Yes,9.2
+XL-0078,Myrmecocystus mimicus,Honeypot Ant,tactile,7.3-12389.19,2831,3.2,solitary,Mixed,9.56,Pacific Ocean,MIT CSAIL,gestural,Yes,2.57
+XL-0079,Elephas maximus,Asian Elephant,acoustic,839.41-15784.89,3467,5.46,patriarchal,Learned,9.73,Mediterranean,Smithsonian NMNH,vibrational,Yes,3.61
+XL-0080,Apis mellifera,Honey Bee,multimodal,293.55-6551.16,4664,4.54,fission_fusion,Mixed,5.64,Pacific Ocean,MIT CSAIL,vibrational,No,1.52
+XL-0081,Physeter macrocephalus,Sperm Whale,visual_chromatic,615.53-10210.68,882,1.05,solitary,Innate,4.62,Pacific Ocean,Cambridge Zoology Lab,bioluminescent,No,2.78
+XL-0082,Cephalopod octopus,Common Octopus,acoustic,514.32-5056.56,3997,1.06,solitary,Learned,3.03,South Asia,Max Planck Evolutionary Anthropology,chemical,No,4.86
+XL-0083,Pan troglodytes,Chimpanzee,electrical,536.43-8424.45,3604,2.46,fission_fusion,Mixed,4.91,Mediterranean,Smithsonian NMNH,vocal,Yes,3.56
+XL-0084,Pan troglodytes,Chimpanzee,acoustic,394.55-21993.95,1318,7.0,eusocial,Mixed,9.85,Atlantic Ocean,Cornell Lab of Ornithology,bioluminescent,No,8.2
+XL-0085,Myrmecocystus mimicus,Honeypot Ant,electrical,127.44-21933.94,4116,7.53,solitary,Learned,2.18,Atlantic Ocean,Project CETI / CUNY,gestural,Yes,4.1
+XL-0086,Physeter macrocephalus,Sperm Whale,multimodal,767.39-7702.38,2807,4.87,pair_bond,Mixed,1.07,Australia,Woods Hole Oceanographic,chemical,No,1.74
+XL-0087,Corvus corax,Common Raven,tactile,247.75-4754.88,1535,3.25,matriarchal,Learned,9.95,Amazon Rainforest,Cornell Lab of Ornithology,gestural,No,7.36
+XL-0088,Cacatua sulphurea,Yellow-crested Cockatoo,tactile,103.07-21313.27,1489,2.7,pair_bond,Mixed,6.71,Amazon Rainforest,Cambridge Zoology Lab,gestural,No,1.35
+XL-0089,Psittacus erithacus,African Grey Parrot,tactile,929.1-13349.26,1640,1.82,matriarchal,Learned,4.67,Arctic,Smithsonian NMNH,gestural,No,4.83
+XL-0090,Physeter macrocephalus,Sperm Whale,visual_chromatic,509.87-19217.8,906,3.42,fission_fusion,Learned,7.4,Amazon Rainforest,Max Planck Evolutionary Anthropology,vocal,Yes,1.37
+XL-0091,Physeter macrocephalus,Sperm Whale,visual_chromatic,660.43-10055.81,3872,3.52,pair_bond,Innate,4.88,Arctic,MIT CSAIL,chemical,No,3.74
+XL-0092,Tursiops truncatus,Bottlenose Dolphin,chemical,668.95-20506.54,2718,4.25,fission_fusion,Mixed,8.01,Mediterranean,Smithsonian NMNH,electrical,No,2.89
+XL-0093,Corvus corax,Common Raven,multimodal,87.24-3261.2,4935,2.08,pair_bond,Mixed,8.36,Amazon Rainforest,MIT CSAIL,vocal,Yes,9.48
+XL-0094,Balaenoptera musculus,Blue Whale,chemical,342.9-21405.53,4375,7.49,matriarchal,Innate,2.73,Arctic,Stanford HAI,chemical,No,5.04
+XL-0095,Myrmecocystus mimicus,Honeypot Ant,electrical,117.44-12821.47,3437,5.71,pair_bond,Innate,2.5,Arctic,SETI Institute,chemical,Yes,9.6
+XL-0096,Physeter macrocephalus,Sperm Whale,multimodal,794.39-20945.31,3261,5.46,pair_bond,Mixed,9.74,Sub-Saharan Africa,MIT CSAIL,vibrational,No,6.06
+XL-0097,Corvus corax,Common Raven,chemical,400.85-8347.03,34,2.44,patriarchal,Mixed,7.27,Australia,Stanford HAI,electrical,No,3.73
+XL-0098,Psittacus erithacus,African Grey Parrot,acoustic,296.37-8156.44,1406,3.02,pair_bond,Innate,3.63,Sub-Saharan Africa,Woods Hole Oceanographic,gestural,No,8.86
+XL-0099,Physeter macrocephalus,Sperm Whale,chemical,642.42-7938.75,4384,2.05,solitary,Learned,6.69,Mediterranean,Max Planck Evolutionary Anthropology,vocal,No,7.5
+XL-0100,Corvus corax,Common Raven,acoustic,898.34-9520.82,90,8.42,patriarchal,Mixed,9.69,Sub-Saharan Africa,Woods Hole Oceanographic,vocal,Yes,7.5
+XL-0101,Myrmecocystus mimicus,Honeypot Ant,multimodal,381.99-19377.52,4955,5.96,eusocial,Innate,3.92,Amazon Rainforest,Cornell Lab of Ornithology,gestural,No,3.09
+XL-0102,Myrmecocystus mimicus,Honeypot Ant,electrical,433.91-4820.77,772,5.46,eusocial,Innate,8.34,Sub-Saharan Africa,Smithsonian NMNH,vibrational,No,9.49
+XL-0103,Pan troglodytes,Chimpanzee,chemical,647.57-1355.84,1460,8.36,solitary,Mixed,2.69,Sub-Saharan Africa,Cambridge Zoology Lab,bioluminescent,Yes,5.1
+XL-0104,Megaptera novaeangliae,Humpback Whale,tactile,970.39-3967.15,1129,7.54,matriarchal,Mixed,1.9,South Asia,Project CETI / CUNY,vocal,Yes,7.87
+XL-0105,Megaptera novaeangliae,Humpback Whale,acoustic,934.68-4854.65,2197,2.28,solitary,Mixed,1.12,Pacific Ocean,Cambridge Zoology Lab,vibrational,No,8.67
+XL-0106,Tursiops truncatus,Bottlenose Dolphin,tactile,202.33-14186.62,3644,8.34,fission_fusion,Learned,5.31,Amazon Rainforest,Project CETI / CUNY,vibrational,No,6.65
+XL-0107,Tursiops truncatus,Bottlenose Dolphin,tactile,21.22-1408.02,2435,1.92,eusocial,Innate,1.01,Amazon Rainforest,Project CETI / CUNY,gestural,No,4.47
+XL-0108,Elephas maximus,Asian Elephant,multimodal,655.37-7283.43,3156,7.18,solitary,Innate,5.43,Atlantic Ocean,Smithsonian NMNH,vocal,No,4.22
+XL-0109,Balaenoptera musculus,Blue Whale,acoustic,333.73-10851.99,360,6.44,patriarchal,Learned,5.77,Sub-Saharan Africa,Cornell Lab of Ornithology,gestural,No,6.62
+XL-0110,Orcinus orca,Killer Whale,electrical,348.39-3451.75,3028,9.4,solitary,Innate,8.1,Sub-Saharan Africa,SETI Institute,chemical,Yes,4.52
+XL-0111,Myrmecocystus mimicus,Honeypot Ant,acoustic,796.85-29113.05,932,6.2,solitary,Learned,2.3,Mediterranean,SETI Institute,gestural,No,4.17
+XL-0112,Apis mellifera,Honey Bee,electrical,423.84-20563.7,4934,8.14,fission_fusion,Innate,8.22,Amazon Rainforest,Cornell Lab of Ornithology,bioluminescent,No,5.85
+XL-0113,Apis mellifera,Honey Bee,electrical,532.48-24371.06,689,6.23,eusocial,Mixed,6.2,Amazon Rainforest,Cambridge Zoology Lab,gestural,No,1.03
+XL-0114,Zalophus californianus,California Sea Lion,chemical,17.16-16254.18,907,1.54,fission_fusion,Learned,8.64,Sub-Saharan Africa,Woods Hole Oceanographic,bioluminescent,Yes,8.52
+XL-0115,Cephalopod octopus,Common Octopus,chemical,971.82-27456.19,1731,8.45,matriarchal,Mixed,2.24,Sub-Saharan Africa,Cornell Lab of Ornithology,electrical,Yes,7.27
+XL-0116,Corvus corax,Common Raven,multimodal,371.69-20742.2,4769,1.66,pair_bond,Innate,1.27,Mediterranean,SETI Institute,vocal,Yes,1.69
+XL-0117,Balaenoptera musculus,Blue Whale,chemical,831.07-12967.77,3853,7.69,solitary,Mixed,7.29,Arctic,MIT CSAIL,bioluminescent,No,5.0
+XL-0118,Megaptera novaeangliae,Humpback Whale,chemical,695.25-9082.88,496,8.93,matriarchal,Mixed,7.76,Sub-Saharan Africa,Project CETI / CUNY,bioluminescent,No,7.12
+XL-0119,Papio hamadryas,Hamadryas Baboon,visual_chromatic,454.3-21113.96,4691,5.52,solitary,Innate,4.81,Sub-Saharan Africa,Woods Hole Oceanographic,vocal,No,9.8
+XL-0120,Pan troglodytes,Chimpanzee,acoustic,743.14-12414.77,1798,4.53,solitary,Mixed,6.45,Atlantic Ocean,MIT CSAIL,bioluminescent,No,6.87
+XL-0121,Corvus corax,Common Raven,visual_chromatic,827.26-5690.68,3480,2.75,matriarchal,Innate,1.7,Mediterranean,Project CETI / CUNY,gestural,No,2.46
+XL-0122,Tursiops truncatus,Bottlenose Dolphin,visual_chromatic,65.33-17421.83,1542,5.97,solitary,Innate,3.16,Atlantic Ocean,Project CETI / CUNY,vibrational,No,1.41
+XL-0123,Elephas maximus,Asian Elephant,visual_chromatic,93.22-9111.9,2318,9.63,pair_bond,Innate,3.83,South Asia,Max Planck Evolutionary Anthropology,gestural,Yes,3.98
+XL-0124,Papio hamadryas,Hamadryas Baboon,chemical,741.45-3760.43,199,6.28,eusocial,Learned,6.28,Pacific Ocean,Woods Hole Oceanographic,gestural,Yes,7.14
+XL-0125,Tursiops truncatus,Bottlenose Dolphin,multimodal,885.21-3681.32,1902,8.96,solitary,Mixed,2.27,Sub-Saharan Africa,Stanford HAI,vibrational,No,5.03
+XL-0126,Pan troglodytes,Chimpanzee,electrical,339.03-10852.17,332,9.02,solitary,Learned,3.15,Atlantic Ocean,SETI Institute,vibrational,No,1.88
+XL-0127,Physeter macrocephalus,Sperm Whale,tactile,142.63-25398.85,719,5.49,eusocial,Learned,2.53,Arctic,SETI Institute,vocal,No,6.19
+XL-0128,Elephas maximus,Asian Elephant,electrical,89.24-5367.72,2118,9.88,fission_fusion,Learned,6.85,Sub-Saharan Africa,Cambridge Zoology Lab,vibrational,No,1.36
+XL-0129,Zalophus californianus,California Sea Lion,tactile,286.63-12207.69,1061,4.97,pair_bond,Mixed,9.57,Mediterranean,Cambridge Zoology Lab,electrical,No,5.55
+XL-0130,Orcinus orca,Killer Whale,acoustic,877.41-29624.48,472,7.67,patriarchal,Mixed,8.39,Pacific Ocean,SETI Institute,vocal,No,4.38
+XL-0131,Balaenoptera musculus,Blue Whale,electrical,399.29-2608.37,3791,7.02,fission_fusion,Learned,5.22,Australia,Cambridge Zoology Lab,vocal,Yes,7.59
+XL-0132,Papio hamadryas,Hamadryas Baboon,electrical,959.55-12531.26,1639,4.61,matriarchal,Learned,4.08,Australia,Smithsonian NMNH,electrical,No,2.03
+XL-0133,Apis mellifera,Honey Bee,electrical,38.29-4639.21,1197,6.76,fission_fusion,Mixed,1.28,South Asia,Project CETI / CUNY,chemical,No,9.81
+XL-0134,Psittacus erithacus,African Grey Parrot,multimodal,54.09-25239.89,3469,3.43,solitary,Innate,1.75,Atlantic Ocean,Woods Hole Oceanographic,bioluminescent,Yes,3.69
+XL-0135,Myrmecocystus mimicus,Honeypot Ant,chemical,451.43-12681.39,2130,2.66,matriarchal,Innate,9.05,South Asia,Max Planck Evolutionary Anthropology,chemical,Yes,2.79
+XL-0136,Corvus corax,Common Raven,chemical,481.63-16057.76,3583,4.19,solitary,Mixed,4.5,Pacific Ocean,Stanford HAI,vibrational,Yes,1.7
+XL-0137,Megaptera novaeangliae,Humpback Whale,multimodal,578.49-4857.93,2597,1.13,eusocial,Innate,5.5,Mediterranean,Cambridge Zoology Lab,electrical,No,3.37
+XL-0138,Myrmecocystus mimicus,Honeypot Ant,chemical,3.69-13124.84,3685,6.75,pair_bond,Innate,1.33,Amazon Rainforest,Cornell Lab of Ornithology,electrical,Yes,6.41
+XL-0139,Psittacus erithacus,African Grey Parrot,multimodal,348.09-27971.78,4730,9.6,fission_fusion,Learned,1.15,Arctic,Stanford HAI,vocal,No,6.84
+XL-0140,Apis mellifera,Honey Bee,tactile,414.06-10679.03,3493,5.71,fission_fusion,Innate,9.34,Australia,Cornell Lab of Ornithology,chemical,Yes,5.97
+XL-0141,Pan troglodytes,Chimpanzee,multimodal,542.77-11669.95,3588,6.71,solitary,Mixed,9.44,Atlantic Ocean,Cambridge Zoology Lab,vocal,Yes,6.85
+XL-0142,Balaenoptera musculus,Blue Whale,multimodal,932.5-4028.72,4467,1.9,eusocial,Mixed,6.23,Pacific Ocean,Woods Hole Oceanographic,bioluminescent,Yes,3.01
+XL-0143,Apis mellifera,Honey Bee,electrical,551.59-3960.67,1024,4.16,eusocial,Learned,9.17,South Asia,Project CETI / CUNY,chemical,Yes,5.57
+XL-0144,Orcinus orca,Killer Whale,electrical,879.61-8623.63,1983,1.04,eusocial,Innate,1.14,Sub-Saharan Africa,Max Planck Evolutionary Anthropology,vibrational,No,4.02
+XL-0145,Balaenoptera musculus,Blue Whale,electrical,992.83-8081.75,1583,6.55,eusocial,Innate,8.21,South Asia,SETI Institute,electrical,No,9.8
+XL-0146,Pan troglodytes,Chimpanzee,chemical,403.12-9696.93,3588,3.08,solitary,Innate,5.54,South Asia,Woods Hole Oceanographic,vibrational,Yes,9.54
+XL-0147,Psittacus erithacus,African Grey Parrot,acoustic,93.26-934.26,4865,2.38,pair_bond,Mixed,5.89,Atlantic Ocean,Cornell Lab of Ornithology,vocal,Yes,9.85
+XL-0148,Megaptera novaeangliae,Humpback Whale,chemical,631.51-11081.22,1821,3.67,pair_bond,Innate,7.54,South Asia,Woods Hole Oceanographic,electrical,Yes,3.47
+XL-0149,Papio hamadryas,Hamadryas Baboon,tactile,143.78-912.55,852,2.0,pair_bond,Innate,1.96,Arctic,Woods Hole Oceanographic,gestural,Yes,1.7
+XL-0150,Zalophus californianus,California Sea Lion,electrical,361.4-24688.73,829,5.42,matriarchal,Learned,1.66,Atlantic Ocean,Smithsonian NMNH,electrical,No,4.38
+XL-0151,Elephas maximus,Asian Elephant,chemical,633.56-13763.95,1477,3.69,patriarchal,Mixed,6.11,Pacific Ocean,Cambridge Zoology Lab,chemical,No,5.36
+XL-0152,Balaenoptera musculus,Blue Whale,tactile,600.0-844.92,2089,9.34,patriarchal,Mixed,1.27,Pacific Ocean,Stanford HAI,vibrational,Yes,2.95
+XL-0153,Elephas maximus,Asian Elephant,visual_chromatic,114.8-6484.88,1140,2.98,solitary,Mixed,9.46,Arctic,Woods Hole Oceanographic,bioluminescent,Yes,9.58
+XL-0154,Elephas maximus,Asian Elephant,electrical,708.09-19648.71,4066,4.92,eusocial,Innate,3.25,Amazon Rainforest,Woods Hole Oceanographic,bioluminescent,Yes,6.25
+XL-0155,Cacatua sulphurea,Yellow-crested Cockatoo,chemical,587.58-5474.96,4001,4.9,eusocial,Learned,6.37,Arctic,Max Planck Evolutionary Anthropology,vibrational,Yes,6.47
+XL-0156,Corvus corax,Common Raven,multimodal,199.73-10498.99,531,5.04,matriarchal,Mixed,3.28,South Asia,Woods Hole Oceanographic,vibrational,No,4.58
+XL-0157,Tursiops truncatus,Bottlenose Dolphin,chemical,179.91-9605.4,2935,3.21,patriarchal,Mixed,4.34,Sub-Saharan Africa,Max Planck Evolutionary Anthropology,vocal,Yes,3.87
+XL-0158,Physeter macrocephalus,Sperm Whale,tactile,716.81-6994.83,2639,9.09,pair_bond,Innate,4.47,Amazon Rainforest,Stanford HAI,gestural,Yes,6.05
+XL-0159,Myrmecocystus mimicus,Honeypot Ant,multimodal,607.91-26237.02,617,6.17,solitary,Learned,7.14,South Asia,Max Planck Evolutionary Anthropology,chemical,Yes,2.77
+XL-0160,Cacatua sulphurea,Yellow-crested Cockatoo,visual_chromatic,493.94-1946.22,3455,2.07,eusocial,Innate,6.41,South Asia,Smithsonian NMNH,vibrational,Yes,3.57
+XL-0161,Megaptera novaeangliae,Humpback Whale,acoustic,783.31-17522.74,3787,3.56,eusocial,Innate,9.06,Pacific Ocean,Max Planck Evolutionary Anthropology,electrical,Yes,1.63
+XL-0162,Tursiops truncatus,Bottlenose Dolphin,visual_chromatic,829.85-12925.63,2255,3.85,fission_fusion,Learned,1.72,Mediterranean,MIT CSAIL,vibrational,Yes,4.54
+XL-0163,Myrmecocystus mimicus,Honeypot Ant,multimodal,983.97-15341.4,999,8.59,pair_bond,Innate,1.26,Pacific Ocean,Project CETI / CUNY,gestural,Yes,9.94
+XL-0164,Zalophus californianus,California Sea Lion,chemical,687.6-13378.82,726,2.72,fission_fusion,Mixed,9.91,Pacific Ocean,Woods Hole Oceanographic,vocal,Yes,1.43
+XL-0165,Orcinus orca,Killer Whale,tactile,75.05-9692.66,3114,3.43,patriarchal,Innate,6.25,Atlantic Ocean,SETI Institute,chemical,Yes,7.78
+XL-0166,Papio hamadryas,Hamadryas Baboon,multimodal,850.16-26829.45,3665,7.01,pair_bond,Mixed,3.16,Australia,MIT CSAIL,chemical,No,7.95
+XL-0167,Apis mellifera,Honey Bee,visual_chromatic,225.84-7950.01,683,4.18,patriarchal,Mixed,6.82,Amazon Rainforest,Cambridge Zoology Lab,vocal,No,1.54
+XL-0168,Physeter macrocephalus,Sperm Whale,electrical,670.5-14300.05,1544,5.39,fission_fusion,Innate,8.33,Mediterranean,Woods Hole Oceanographic,electrical,No,6.9
+XL-0169,Zalophus californianus,California Sea Lion,chemical,504.52-27022.74,2983,4.47,eusocial,Mixed,5.62,South Asia,Smithsonian NMNH,vocal,No,4.81
+XL-0170,Megaptera novaeangliae,Humpback Whale,multimodal,307.15-25545.28,841,2.33,matriarchal,Mixed,1.99,Pacific Ocean,MIT CSAIL,gestural,No,1.26
+XL-0171,Megaptera novaeangliae,Humpback Whale,acoustic,530.89-10802.44,4513,1.76,eusocial,Innate,2.36,South Asia,Stanford HAI,chemical,Yes,4.97
+XL-0172,Elephas maximus,Asian Elephant,multimodal,97.82-18942.99,3466,2.75,patriarchal,Learned,2.59,Arctic,Stanford HAI,vibrational,No,5.67
+XL-0173,Tursiops truncatus,Bottlenose Dolphin,acoustic,681.16-19460.53,1803,2.04,matriarchal,Mixed,3.4,Atlantic Ocean,Stanford HAI,vocal,No,3.04
+XL-0174,Balaenoptera musculus,Blue Whale,electrical,699.52-12491.29,834,2.98,solitary,Learned,5.46,Sub-Saharan Africa,Smithsonian NMNH,chemical,No,7.35
+XL-0175,Orcinus orca,Killer Whale,tactile,733.88-3557.49,3910,7.65,solitary,Innate,2.53,Atlantic Ocean,SETI Institute,gestural,No,9.1
+XL-0176,Pan troglodytes,Chimpanzee,electrical,962.24-20310.55,2741,1.19,fission_fusion,Innate,2.54,Pacific Ocean,Max Planck Evolutionary Anthropology,bioluminescent,Yes,5.39
+XL-0177,Psittacus erithacus,African Grey Parrot,acoustic,472.57-1878.17,4652,7.12,fission_fusion,Innate,5.73,Sub-Saharan Africa,SETI Institute,vocal,Yes,3.74
+XL-0178,Myrmecocystus mimicus,Honeypot Ant,visual_chromatic,335.68-14615.81,4475,3.32,eusocial,Learned,4.28,Pacific Ocean,Max Planck Evolutionary Anthropology,chemical,No,9.02
+XL-0179,Cacatua sulphurea,Yellow-crested Cockatoo,tactile,663.94-25766.13,3972,2.01,solitary,Mixed,7.55,Pacific Ocean,SETI Institute,bioluminescent,Yes,6.93
+XL-0180,Pan troglodytes,Chimpanzee,tactile,357.2-1350.35,3533,4.23,solitary,Innate,2.74,South Asia,Cambridge Zoology Lab,chemical,No,9.89
+XL-0181,Papio hamadryas,Hamadryas Baboon,multimodal,526.91-8294.35,2862,8.99,eusocial,Mixed,4.76,Arctic,Woods Hole Oceanographic,gestural,Yes,6.22
+XL-0182,Myrmecocystus mimicus,Honeypot Ant,electrical,343.28-18140.7,3732,6.1,fission_fusion,Learned,1.99,Pacific Ocean,MIT CSAIL,electrical,Yes,5.2
+XL-0183,Pan troglodytes,Chimpanzee,tactile,523.19-8997.88,1337,3.73,fission_fusion,Innate,8.2,Pacific Ocean,MIT CSAIL,vocal,Yes,3.55
+XL-0184,Balaenoptera musculus,Blue Whale,acoustic,123.44-14337.23,3530,4.17,matriarchal,Innate,3.26,Mediterranean,Woods Hole Oceanographic,vibrational,Yes,9.58
+XL-0185,Myrmecocystus mimicus,Honeypot Ant,chemical,270.68-29152.6,3544,6.27,matriarchal,Learned,2.97,Australia,Max Planck Evolutionary Anthropology,gestural,No,4.8
+XL-0186,Papio hamadryas,Hamadryas Baboon,visual_chromatic,98.15-7748.59,4895,3.8,pair_bond,Learned,7.11,Mediterranean,SETI Institute,electrical,Yes,3.25
+XL-0187,Corvus corax,Common Raven,acoustic,554.29-9354.99,2440,6.1,solitary,Learned,5.91,South Asia,Cornell Lab of Ornithology,vocal,Yes,5.74
+XL-0188,Myrmecocystus mimicus,Honeypot Ant,multimodal,313.27-27431.3,2934,5.22,eusocial,Learned,4.78,South Asia,MIT CSAIL,vocal,Yes,9.62
+XL-0189,Corvus corax,Common Raven,visual_chromatic,88.44-4251.36,1992,6.22,fission_fusion,Innate,6.59,Arctic,Project CETI / CUNY,bioluminescent,Yes,4.63
+XL-0190,Physeter macrocephalus,Sperm Whale,tactile,462.81-22613.38,3775,8.55,matriarchal,Innate,3.43,Atlantic Ocean,Max Planck Evolutionary Anthropology,vibrational,Yes,8.4
+XL-0191,Balaenoptera musculus,Blue Whale,acoustic,481.47-10156.26,999,7.66,solitary,Mixed,7.65,Pacific Ocean,Smithsonian NMNH,vibrational,Yes,6.06
+XL-0192,Apis mellifera,Honey Bee,multimodal,136.41-26103.42,1272,3.71,fission_fusion,Mixed,9.9,Pacific Ocean,MIT CSAIL,vibrational,Yes,2.03
+XL-0193,Physeter macrocephalus,Sperm Whale,tactile,153.03-25682.11,798,3.22,matriarchal,Learned,1.22,Australia,Cornell Lab of Ornithology,vocal,Yes,3.7
+XL-0194,Apis mellifera,Honey Bee,tactile,982.7-24788.53,2137,8.4,solitary,Learned,8.73,Atlantic Ocean,Cornell Lab of Ornithology,gestural,Yes,2.66
+XL-0195,Zalophus californianus,California Sea Lion,tactile,744.6-7800.31,4483,2.8,eusocial,Learned,3.61,Atlantic Ocean,MIT CSAIL,chemical,No,4.52
+XL-0196,Myrmecocystus mimicus,Honeypot Ant,electrical,799.86-14308.41,1218,1.25,eusocial,Innate,6.08,Pacific Ocean,Woods Hole Oceanographic,vocal,No,1.38
+XL-0197,Papio hamadryas,Hamadryas Baboon,multimodal,354.73-4480.6,3759,3.49,patriarchal,Learned,5.51,Amazon Rainforest,Max Planck Evolutionary Anthropology,electrical,No,5.62
+XL-0198,Pan troglodytes,Chimpanzee,multimodal,655.92-10924.88,4618,4.05,solitary,Innate,3.51,Arctic,Cornell Lab of Ornithology,vocal,No,4.39
+XL-0199,Apis mellifera,Honey Bee,multimodal,605.85-5918.67,4158,7.98,pair_bond,Learned,2.16,Mediterranean,Max Planck Evolutionary Anthropology,vibrational,No,1.61
+XL-0200,Physeter macrocephalus,Sperm Whale,acoustic,852.03-5552.32,875,5.49,solitary,Learned,3.91,Amazon Rainforest,Smithsonian NMNH,vocal,Yes,7.55

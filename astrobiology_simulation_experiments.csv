@@ -1,0 +1,201 @@
+experiment_id,simulated_environment,target_planet,temperature_celsius,pressure_atm,radiation_dose_Gy,substrate_type,organism_tested,survival_rate_pct,metabolite_produced,biosignature_detectable,simulation_duration_hours,oxygen_level_ppm,humidity_percentage,experiment_outcome
+AST-0001,Europa_ice_shell,Mars,199.3,22.896,21170.0,ice_crystal,Colwellia psychrerythraea,38.41,H2,Marginal,121,19394.6,32.1,partial_survival
+AST-0002,Enceladus_plume,Ganymede,174.7,39.948,6312.4,tholin_organic,Tardigrade (dried),69.87,N2O,Yes,664,9115.3,52.9,partial_survival
+AST-0003,Mars_briny_subsurface,Ganymede,424.1,19.242,831.0,sulfur_mineral,Deinococcus radiodurans,79.0,H2,No,2328,11478.2,7.2,survived_active
+AST-0004,Triton_surface,Titan,-73.2,41.496,20689.4,methane_ice,Sulfolobus acidocaldarius,18.53,none,Yes,276,9216.4,62.5,inconclusive
+AST-0005,Enceladus_plume,Venus,-3.3,23.586,5764.3,methane_ice,Deinococcus radiodurans,87.4,N2O,No,1030,8199.0,35.8,survived_active
+AST-0006,Europa_ice_shell,Venus,175.7,170.639,23295.2,silica_aerogel,Bacillus subtilis spores,87.24,H2S,Marginal,455,12238.2,93.7,adapted_morphology
+AST-0007,Mars_briny_subsurface,Enceladus,76.2,40.103,22200.7,basalt_dust,Chroococcidiopsis sp.,98.49,N2O,Marginal,1351,19407.7,66.3,survived_active
+AST-0008,Europa_ice_shell,Venus,388.2,140.618,19139.4,basalt_dust,Sulfolobus acidocaldarius,87.83,CH4,No,331,18637.9,47.9,adapted_morphology
+AST-0009,Mars_briny_subsurface,Mars,-173.0,101.521,16258.4,salt_crystal_NaCl,Colwellia psychrerythraea,12.95,dimethyl_sulfide,Yes,88,19556.2,2.6,inconclusive
+AST-0010,Triton_surface,Venus,359.8,136.389,18448.1,tholin_organic,Deinococcus radiodurans,78.18,formate,No,513,9024.1,42.7,survived_dormant
+AST-0011,Europa_ice_shell,Venus,438.7,73.542,4841.1,salt_crystal_NaCl,Deinococcus radiodurans,13.78,N2O,Yes,377,12361.0,22.7,partial_survival
+AST-0012,Mars_briny_subsurface,Mars,368.1,49.985,1422.1,basalt_dust,Chroococcidiopsis sp.,74.75,acetate,Yes,1158,918.1,35.0,complete_death
+AST-0013,Venus_clouds_50km,Europa,195.6,95.741,3059.4,ice_crystal,Halobacterium salinarum,65.52,dimethyl_sulfide,Marginal,844,10393.5,73.5,survived_dormant
+AST-0014,Ganymede_subsurface,Ganymede,-0.4,73.387,13785.1,perchlorate_brine,None (control),35.7,dimethyl_sulfide,No,2218,10572.4,5.4,survived_dormant
+AST-0015,Venus_clouds_50km,Mars,-64.5,27.427,24398.5,perchlorate_brine,Tardigrade (dried),90.04,none,Yes,503,7820.2,81.6,adapted_morphology
+AST-0016,Ganymede_subsurface,Ganymede,297.7,190.609,532.2,basalt_dust,Tardigrade (dried),14.2,dimethyl_sulfide,Marginal,1574,6308.7,96.5,survived_dormant
+AST-0017,Mars_perchlorate_soil,Titan,-183.8,76.518,11100.5,perchlorate_brine,Methanopyrus kandleri,5.97,formate,Yes,1766,11182.3,66.0,complete_death
+AST-0018,Mars_briny_subsurface,Venus,291.4,67.244,20703.9,silica_aerogel,Methanopyrus kandleri,3.13,H2S,No,1778,18180.6,78.3,complete_death
+AST-0019,Triton_surface,Titan,419.3,186.495,7185.5,tholin_organic,Bacillus subtilis spores,92.86,none,No,666,20166.4,46.7,survived_active
+AST-0020,Mars_briny_subsurface,Enceladus,320.5,190.193,2138.4,perchlorate_brine,None (control),99.26,dimethyl_sulfide,No,2340,8286.6,61.6,survived_active
+AST-0021,Venus_clouds_50km,Ganymede,327.4,121.6,3107.7,methane_ice,Tardigrade (dried),36.17,CO2,No,1896,362.6,0.9,inconclusive
+AST-0022,Ganymede_subsurface,Ganymede,349.4,43.569,1464.6,ice_crystal,Tardigrade (dried),3.7,none,No,263,9249.2,25.8,complete_death
+AST-0023,Ganymede_subsurface,Europa,-49.1,34.9,21781.0,basalt_dust,Methanopyrus kandleri,78.67,CH4,Marginal,158,3869.4,50.7,adapted_morphology
+AST-0024,Mars_briny_subsurface,Venus,267.4,12.164,17863.7,silica_aerogel,Tardigrade (dried),44.03,H2S,Marginal,1448,11349.3,4.5,adapted_morphology
+AST-0025,Europa_ice_shell,Venus,90.7,102.208,5924.5,methane_ice,Sulfolobus acidocaldarius,23.47,formate,Yes,1747,18392.9,14.3,survived_active
+AST-0026,early_Earth_anoxic,Titan,383.7,74.944,23562.0,silica_aerogel,Deinococcus radiodurans,32.65,CO2,No,183,6108.3,15.0,adapted_morphology
+AST-0027,Titan_tholin_lake,Enceladus,134.0,156.175,12704.6,methane_ice,Methanopyrus kandleri,59.12,formate,Marginal,134,13798.2,15.0,survived_active
+AST-0028,Europa_ice_shell,Mars,423.3,198.464,14135.1,salt_crystal_NaCl,None (control),76.26,CH4,Marginal,211,12749.1,65.9,inconclusive
+AST-0029,Venus_clouds_50km,Europa,344.1,58.614,6100.7,perchlorate_brine,Sulfolobus acidocaldarius,52.03,N2O,No,1290,15712.0,11.5,adapted_morphology
+AST-0030,Mars_perchlorate_soil,Enceladus,-144.5,112.092,1911.1,methane_ice,Colwellia psychrerythraea,24.1,N2O,No,1716,4825.0,82.8,inconclusive
+AST-0031,Mars_perchlorate_soil,Ganymede,181.8,27.629,6507.0,silica_aerogel,Sulfolobus acidocaldarius,98.67,H2,Yes,334,8578.6,50.5,survived_active
+AST-0032,Titan_tholin_lake,Europa,370.2,3.103,3019.7,silica_aerogel,None (control),14.84,acetate,Marginal,414,2654.4,3.4,partial_survival
+AST-0033,Enceladus_plume,Mars,-110.5,173.376,22965.6,salt_crystal_NaCl,Sulfolobus acidocaldarius,43.14,CO2,No,2282,5070.1,29.3,inconclusive
+AST-0034,Europa_ice_shell,Ganymede,-166.8,147.75,8873.9,tholin_organic,Bacillus subtilis spores,33.68,acetate,Marginal,1785,6075.1,47.7,adapted_morphology
+AST-0035,Triton_surface,Mars,-97.6,1.558,14826.2,tholin_organic,Bacillus subtilis spores,13.46,H2,No,724,10682.0,58.8,survived_dormant
+AST-0036,Venus_clouds_50km,Titan,24.4,112.827,22432.5,salt_crystal_NaCl,Tardigrade (dried),94.48,H2,No,1305,15903.3,95.4,survived_active
+AST-0037,Titan_tholin_lake,Titan,139.4,115.028,15386.9,ice_crystal,Sulfolobus acidocaldarius,4.19,dimethyl_sulfide,Yes,486,6044.7,48.7,complete_death
+AST-0038,Venus_clouds_50km,Enceladus,442.8,150.694,23112.9,silica_aerogel,Chroococcidiopsis sp.,22.36,CH4,Yes,2262,17614.6,75.5,survived_dormant
+AST-0039,Triton_surface,Venus,320.1,1.334,20812.6,basalt_dust,Sulfolobus acidocaldarius,2.74,N2O,No,2340,8956.6,44.5,complete_death
+AST-0040,Venus_clouds_50km,Mars,266.7,183.837,2998.5,salt_crystal_NaCl,Colwellia psychrerythraea,12.62,dimethyl_sulfide,Yes,561,20854.6,73.2,partial_survival
+AST-0041,Europa_ice_shell,Ganymede,316.5,145.473,8177.9,methane_ice,Tardigrade (dried),11.65,acetate,Marginal,2101,14113.7,7.4,adapted_morphology
+AST-0042,Mars_perchlorate_soil,Mars,406.3,158.84,7938.2,basalt_dust,Deinococcus radiodurans,68.79,N2O,Yes,1541,18314.4,22.0,survived_active
+AST-0043,Enceladus_plume,Titan,329.8,146.712,7065.0,perchlorate_brine,Halobacterium salinarum,19.57,none,Marginal,878,67.2,6.7,partial_survival
+AST-0044,Enceladus_plume,Mars,74.1,52.615,9507.3,perchlorate_brine,Sulfolobus acidocaldarius,55.77,acetate,Marginal,738,18435.7,84.1,survived_dormant
+AST-0045,Ganymede_subsurface,Ganymede,57.4,71.426,12024.0,ice_crystal,Methanopyrus kandleri,87.5,CH4,No,1719,20356.6,32.5,adapted_morphology
+AST-0046,Enceladus_plume,Titan,421.8,132.123,8689.5,salt_crystal_NaCl,Chroococcidiopsis sp.,66.24,acetate,No,1688,14431.7,2.9,survived_active
+AST-0047,Mars_perchlorate_soil,Mars,167.2,64.639,16874.7,salt_crystal_NaCl,Bacillus subtilis spores,26.79,acetate,No,1633,5474.7,5.5,survived_dormant
+AST-0048,early_Earth_anoxic,Ganymede,332.8,61.703,10245.3,sulfur_mineral,None (control),48.55,N2O,Marginal,452,19905.4,61.3,survived_dormant
+AST-0049,Triton_surface,Mars,417.9,4.225,9479.7,methane_ice,Sulfolobus acidocaldarius,32.97,none,Yes,202,10891.6,36.2,complete_death
+AST-0050,Triton_surface,Titan,359.4,45.868,20032.1,methane_ice,Sulfolobus acidocaldarius,19.84,formate,Yes,2265,15400.0,94.0,survived_dormant
+AST-0051,Triton_surface,Mars,128.0,158.269,1057.1,silica_aerogel,Tardigrade (dried),3.61,H2S,Yes,1013,709.3,75.0,complete_death
+AST-0052,Mars_perchlorate_soil,Europa,332.6,175.324,21549.6,ice_crystal,Halobacterium salinarum,81.3,none,Marginal,1702,423.2,74.3,partial_survival
+AST-0053,Europa_ice_shell,Ganymede,184.0,78.225,20786.8,silica_aerogel,Sulfolobus acidocaldarius,54.17,formate,Marginal,96,6345.2,45.9,survived_dormant
+AST-0054,Ganymede_subsurface,Titan,-7.9,18.613,24172.2,silica_aerogel,Colwellia psychrerythraea,9.97,dimethyl_sulfide,Marginal,2185,10638.5,38.2,inconclusive
+AST-0055,early_Earth_anoxic,Venus,265.6,90.455,14447.0,basalt_dust,Bacillus subtilis spores,99.32,N2O,No,1515,10012.9,10.9,adapted_morphology
+AST-0056,Europa_ice_shell,Mars,166.3,41.537,23552.3,perchlorate_brine,Halobacterium salinarum,31.06,CO2,No,1940,10991.5,84.0,survived_dormant
+AST-0057,Ganymede_subsurface,Enceladus,70.1,148.102,20858.1,basalt_dust,Sulfolobus acidocaldarius,76.06,formate,Yes,1099,14498.3,75.5,survived_active
+AST-0058,Ganymede_subsurface,Enceladus,423.8,47.149,11534.3,tholin_organic,None (control),79.47,none,Marginal,334,19345.8,42.6,complete_death
+AST-0059,Mars_briny_subsurface,Europa,139.9,24.296,4934.2,ice_crystal,Deinococcus radiodurans,7.75,formate,No,700,13149.5,52.5,survived_dormant
+AST-0060,Mars_perchlorate_soil,Titan,-190.0,23.518,24893.6,silica_aerogel,None (control),13.99,H2,Marginal,1523,11840.0,16.6,complete_death
+AST-0061,Titan_tholin_lake,Venus,419.0,74.251,15112.9,tholin_organic,Colwellia psychrerythraea,29.02,N2O,No,555,3449.0,71.5,inconclusive
+AST-0062,Mars_perchlorate_soil,Europa,-98.9,13.411,24424.4,silica_aerogel,Methanopyrus kandleri,47.39,N2O,Marginal,385,11292.4,33.1,adapted_morphology
+AST-0063,Enceladus_plume,Mars,30.4,111.832,5650.7,basalt_dust,Methanopyrus kandleri,6.11,dimethyl_sulfide,No,1746,12273.8,30.6,partial_survival
+AST-0064,Venus_clouds_50km,Venus,153.5,131.874,1936.9,sulfur_mineral,Halobacterium salinarum,62.45,N2O,No,731,5521.7,10.2,partial_survival
+AST-0065,Mars_perchlorate_soil,Enceladus,175.9,170.68,15119.4,tholin_organic,Methanopyrus kandleri,79.69,CO2,Yes,950,20770.8,9.1,complete_death
+AST-0066,Enceladus_plume,Europa,111.1,0.05,1944.7,basalt_dust,Chroococcidiopsis sp.,80.34,none,No,1743,13961.7,32.7,survived_dormant
+AST-0067,Titan_tholin_lake,Venus,58.0,154.784,17656.1,methane_ice,Tardigrade (dried),50.04,none,No,2174,1642.2,60.5,survived_active
+AST-0068,Venus_clouds_50km,Ganymede,-103.7,87.449,11041.2,silica_aerogel,Halobacterium salinarum,21.39,none,No,1427,3738.3,86.6,survived_dormant
+AST-0069,Mars_perchlorate_soil,Europa,202.6,175.259,23015.2,perchlorate_brine,Bacillus subtilis spores,85.54,H2,Yes,44,4112.6,36.1,adapted_morphology
+AST-0070,Venus_clouds_50km,Enceladus,-135.2,73.774,6344.0,basalt_dust,Tardigrade (dried),19.49,H2S,Marginal,1127,13475.2,39.8,complete_death
+AST-0071,Venus_clouds_50km,Ganymede,-159.0,114.437,760.7,tholin_organic,Colwellia psychrerythraea,99.57,acetate,Yes,1940,15748.7,64.8,adapted_morphology
+AST-0072,Mars_briny_subsurface,Enceladus,-177.4,178.853,3829.8,sulfur_mineral,Chroococcidiopsis sp.,54.56,CH4,No,490,1177.0,63.7,survived_active
+AST-0073,Triton_surface,Enceladus,439.3,38.837,15350.1,basalt_dust,Sulfolobus acidocaldarius,6.23,H2,Marginal,694,19020.2,58.7,survived_active
+AST-0074,Mars_perchlorate_soil,Titan,345.2,133.929,1623.9,sulfur_mineral,Tardigrade (dried),94.43,CH4,Yes,1817,934.7,60.9,survived_active
+AST-0075,Enceladus_plume,Ganymede,286.5,167.572,80.6,silica_aerogel,None (control),68.87,H2,Yes,1399,9791.3,83.6,partial_survival
+AST-0076,Europa_ice_shell,Mars,397.0,36.501,2160.4,methane_ice,Deinococcus radiodurans,8.61,CO2,Yes,891,13396.9,46.0,partial_survival
+AST-0077,Titan_tholin_lake,Ganymede,292.3,26.548,1333.4,silica_aerogel,Chroococcidiopsis sp.,87.72,dimethyl_sulfide,Yes,2315,6626.4,22.6,adapted_morphology
+AST-0078,Enceladus_plume,Enceladus,-28.5,87.92,2310.3,methane_ice,Sulfolobus acidocaldarius,18.82,H2,Marginal,2143,9443.1,63.1,survived_dormant
+AST-0079,Mars_perchlorate_soil,Europa,151.5,42.133,17554.7,methane_ice,Tardigrade (dried),83.17,N2O,No,2064,11583.8,74.3,survived_active
+AST-0080,Titan_tholin_lake,Enceladus,-55.0,52.17,23048.0,sulfur_mineral,Colwellia psychrerythraea,26.9,CO2,No,1323,7817.9,37.8,complete_death
+AST-0081,early_Earth_anoxic,Ganymede,-128.4,71.777,22525.6,sulfur_mineral,Bacillus subtilis spores,58.84,acetate,No,1380,13605.5,10.0,survived_active
+AST-0082,Ganymede_subsurface,Venus,-75.7,4.351,20230.5,tholin_organic,Bacillus subtilis spores,91.31,formate,No,998,5304.1,37.3,survived_active
+AST-0083,Mars_perchlorate_soil,Enceladus,-170.1,185.798,5857.6,ice_crystal,Bacillus subtilis spores,33.79,formate,No,2366,8415.8,2.9,inconclusive
+AST-0084,Triton_surface,Europa,418.7,113.598,3488.7,methane_ice,Deinococcus radiodurans,51.22,CH4,No,580,16831.3,45.9,adapted_morphology
+AST-0085,Enceladus_plume,Europa,374.4,60.257,2009.4,perchlorate_brine,Methanopyrus kandleri,16.53,formate,Yes,1003,3236.9,55.5,survived_active
+AST-0086,Ganymede_subsurface,Europa,26.7,94.161,17169.7,perchlorate_brine,Colwellia psychrerythraea,77.56,formate,No,995,16024.2,9.6,survived_active
+AST-0087,Mars_perchlorate_soil,Enceladus,384.1,163.958,18259.3,salt_crystal_NaCl,Bacillus subtilis spores,12.85,none,Yes,1421,10254.5,74.0,survived_dormant
+AST-0088,Enceladus_plume,Europa,42.5,67.971,20581.0,salt_crystal_NaCl,Halobacterium salinarum,58.64,N2O,Yes,2048,3947.4,21.1,survived_dormant
+AST-0089,Mars_perchlorate_soil,Ganymede,-79.8,30.15,7777.3,tholin_organic,Deinococcus radiodurans,43.54,dimethyl_sulfide,No,736,3434.4,68.2,adapted_morphology
+AST-0090,Europa_ice_shell,Enceladus,247.2,20.282,21561.7,basalt_dust,Chroococcidiopsis sp.,83.42,H2,Yes,2354,10646.4,68.6,partial_survival
+AST-0091,Mars_perchlorate_soil,Titan,302.3,60.592,6466.2,ice_crystal,Colwellia psychrerythraea,1.16,none,No,1940,14952.5,84.4,complete_death
+AST-0092,Mars_perchlorate_soil,Venus,294.7,174.063,2000.2,basalt_dust,Sulfolobus acidocaldarius,97.18,dimethyl_sulfide,Yes,2110,17069.5,72.8,survived_active
+AST-0093,Ganymede_subsurface,Enceladus,-170.3,173.579,11506.3,basalt_dust,Sulfolobus acidocaldarius,45.5,dimethyl_sulfide,No,1383,14174.9,76.7,survived_active
+AST-0094,Enceladus_plume,Enceladus,34.5,3.505,8115.8,basalt_dust,Halobacterium salinarum,2.35,H2,Marginal,150,11156.6,39.6,complete_death
+AST-0095,Europa_ice_shell,Europa,273.5,126.584,10777.5,silica_aerogel,Sulfolobus acidocaldarius,17.52,acetate,Marginal,1000,19294.3,90.4,complete_death
+AST-0096,Mars_briny_subsurface,Mars,15.0,7.658,15233.8,ice_crystal,Bacillus subtilis spores,93.23,none,Marginal,323,7093.2,63.7,adapted_morphology
+AST-0097,Mars_briny_subsurface,Europa,417.9,51.372,16322.4,ice_crystal,Bacillus subtilis spores,30.2,CH4,Yes,2339,5480.5,30.3,partial_survival
+AST-0098,Mars_briny_subsurface,Enceladus,174.4,43.043,23387.0,silica_aerogel,Chroococcidiopsis sp.,51.4,dimethyl_sulfide,Marginal,188,12697.1,91.0,survived_dormant
+AST-0099,Mars_briny_subsurface,Titan,-62.2,156.41,16430.3,silica_aerogel,Tardigrade (dried),67.82,acetate,Marginal,1304,2040.1,22.5,adapted_morphology
+AST-0100,Europa_ice_shell,Venus,-10.1,142.407,20674.4,salt_crystal_NaCl,Sulfolobus acidocaldarius,70.9,none,No,1949,19527.3,1.3,survived_dormant
+AST-0101,Ganymede_subsurface,Europa,102.4,148.514,5265.9,sulfur_mineral,Bacillus subtilis spores,34.06,dimethyl_sulfide,No,133,13874.7,57.1,adapted_morphology
+AST-0102,Triton_surface,Enceladus,-142.3,149.602,13239.8,silica_aerogel,Tardigrade (dried),7.86,H2,No,1915,620.9,62.5,partial_survival
+AST-0103,Mars_perchlorate_soil,Titan,447.3,4.683,24333.9,tholin_organic,Methanopyrus kandleri,16.67,formate,Marginal,540,7947.0,94.9,adapted_morphology
+AST-0104,Titan_tholin_lake,Europa,444.9,114.149,4465.6,sulfur_mineral,Bacillus subtilis spores,12.35,none,No,1442,15776.9,41.8,partial_survival
+AST-0105,early_Earth_anoxic,Ganymede,-127.8,176.952,24006.0,methane_ice,None (control),59.92,none,Marginal,1607,4727.1,40.4,adapted_morphology
+AST-0106,Ganymede_subsurface,Europa,400.8,35.526,7210.2,methane_ice,Colwellia psychrerythraea,75.68,CO2,Marginal,403,8050.4,65.3,adapted_morphology
+AST-0107,Mars_briny_subsurface,Venus,-51.2,121.942,12584.0,ice_crystal,Bacillus subtilis spores,97.42,H2S,No,1024,3495.6,62.5,survived_active
+AST-0108,Mars_briny_subsurface,Ganymede,192.5,157.976,9733.5,perchlorate_brine,Chroococcidiopsis sp.,68.44,acetate,No,981,3679.4,93.7,adapted_morphology
+AST-0109,Venus_clouds_50km,Mars,381.8,41.402,11529.5,perchlorate_brine,Colwellia psychrerythraea,92.14,N2O,Yes,1890,10504.5,11.1,survived_active
+AST-0110,Enceladus_plume,Europa,102.6,192.495,172.1,basalt_dust,Bacillus subtilis spores,60.4,none,No,1579,1477.7,41.7,adapted_morphology
+AST-0111,Triton_surface,Mars,266.4,121.396,24730.2,basalt_dust,Colwellia psychrerythraea,26.0,acetate,Marginal,245,6152.2,39.8,inconclusive
+AST-0112,early_Earth_anoxic,Titan,266.9,102.312,16240.7,salt_crystal_NaCl,Halobacterium salinarum,82.23,CH4,Yes,1076,15916.7,58.0,survived_active
+AST-0113,Enceladus_plume,Enceladus,70.7,67.968,22824.4,tholin_organic,Methanopyrus kandleri,79.16,dimethyl_sulfide,Yes,1352,13482.7,7.4,inconclusive
+AST-0114,Venus_clouds_50km,Enceladus,-5.2,88.935,19684.3,silica_aerogel,Tardigrade (dried),89.92,H2S,Yes,607,10957.4,2.6,survived_active
+AST-0115,Venus_clouds_50km,Enceladus,414.3,31.661,15847.4,tholin_organic,Colwellia psychrerythraea,88.02,dimethyl_sulfide,Yes,527,3077.0,29.2,adapted_morphology
+AST-0116,Titan_tholin_lake,Mars,353.7,116.646,3709.1,basalt_dust,Tardigrade (dried),38.42,H2,Marginal,2084,15654.6,99.6,inconclusive
+AST-0117,Enceladus_plume,Enceladus,219.9,117.427,12527.4,methane_ice,Bacillus subtilis spores,40.58,acetate,Marginal,693,18286.4,48.2,complete_death
+AST-0118,Mars_briny_subsurface,Ganymede,415.7,68.474,7732.7,perchlorate_brine,Chroococcidiopsis sp.,48.4,dimethyl_sulfide,Marginal,490,13649.9,35.7,partial_survival
+AST-0119,Mars_briny_subsurface,Ganymede,350.4,156.618,13103.0,perchlorate_brine,Methanopyrus kandleri,45.93,H2,Marginal,135,8368.3,9.9,inconclusive
+AST-0120,Venus_clouds_50km,Venus,425.2,169.321,13443.2,ice_crystal,Deinococcus radiodurans,32.95,acetate,Marginal,2142,5207.4,25.6,survived_active
+AST-0121,Titan_tholin_lake,Europa,249.5,91.214,1005.8,silica_aerogel,None (control),73.94,dimethyl_sulfide,Yes,779,15400.1,91.7,inconclusive
+AST-0122,Mars_briny_subsurface,Europa,-49.0,117.136,14531.8,tholin_organic,Halobacterium salinarum,90.61,none,Yes,1307,16590.3,7.3,adapted_morphology
+AST-0123,Europa_ice_shell,Titan,-68.5,108.474,5374.8,tholin_organic,Tardigrade (dried),47.83,H2S,Marginal,1761,18083.9,11.2,partial_survival
+AST-0124,Ganymede_subsurface,Mars,-33.4,81.434,6768.6,sulfur_mineral,Sulfolobus acidocaldarius,88.65,none,No,2107,5958.9,64.5,survived_active
+AST-0125,Titan_tholin_lake,Enceladus,-18.2,112.253,7720.1,tholin_organic,Halobacterium salinarum,26.42,CO2,No,27,6703.4,97.4,complete_death
+AST-0126,Enceladus_plume,Mars,295.2,134.596,2364.2,tholin_organic,Sulfolobus acidocaldarius,47.05,none,Yes,793,16354.6,76.3,survived_dormant
+AST-0127,Venus_clouds_50km,Enceladus,299.1,94.376,17118.7,perchlorate_brine,Chroococcidiopsis sp.,21.32,H2,Yes,787,16094.3,78.6,complete_death
+AST-0128,early_Earth_anoxic,Venus,437.8,130.698,19718.7,silica_aerogel,Methanopyrus kandleri,85.24,dimethyl_sulfide,No,1244,7786.6,30.6,survived_active
+AST-0129,early_Earth_anoxic,Titan,3.0,112.658,19067.4,basalt_dust,Bacillus subtilis spores,72.67,H2S,No,1449,13561.6,14.0,inconclusive
+AST-0130,Mars_briny_subsurface,Ganymede,-65.4,132.411,6398.2,methane_ice,Deinococcus radiodurans,45.69,H2,No,1567,6839.4,56.0,adapted_morphology
+AST-0131,Triton_surface,Titan,357.2,21.368,6078.4,methane_ice,Colwellia psychrerythraea,19.95,acetate,Yes,1598,14443.8,90.9,survived_dormant
+AST-0132,Mars_perchlorate_soil,Mars,-130.5,127.926,6901.2,methane_ice,Colwellia psychrerythraea,48.7,dimethyl_sulfide,Yes,1933,2820.0,75.0,adapted_morphology
+AST-0133,Mars_perchlorate_soil,Europa,368.6,117.962,14352.2,ice_crystal,Colwellia psychrerythraea,32.45,N2O,No,2346,11478.3,66.1,inconclusive
+AST-0134,Mars_briny_subsurface,Europa,302.8,13.602,19647.5,methane_ice,Sulfolobus acidocaldarius,55.67,acetate,Marginal,880,3866.9,46.8,adapted_morphology
+AST-0135,Titan_tholin_lake,Ganymede,431.5,51.806,15090.4,basalt_dust,Chroococcidiopsis sp.,46.08,CH4,Marginal,1683,8973.9,80.6,adapted_morphology
+AST-0136,Mars_briny_subsurface,Venus,45.3,113.143,24891.4,methane_ice,None (control),79.81,acetate,No,2355,7008.8,6.7,complete_death
+AST-0137,Triton_surface,Mars,147.5,159.718,21157.5,ice_crystal,Colwellia psychrerythraea,7.56,N2O,Yes,1766,17172.9,46.6,survived_active
+AST-0138,early_Earth_anoxic,Mars,-78.6,115.045,11351.2,salt_crystal_NaCl,Deinococcus radiodurans,88.94,formate,Marginal,1204,133.4,82.8,survived_active
+AST-0139,early_Earth_anoxic,Titan,-98.8,171.115,14609.4,methane_ice,None (control),1.89,acetate,Marginal,821,16168.5,57.4,complete_death
+AST-0140,Enceladus_plume,Europa,303.4,41.23,4539.7,basalt_dust,None (control),35.46,H2S,Yes,2213,7318.9,6.9,inconclusive
+AST-0141,Titan_tholin_lake,Enceladus,-90.5,198.201,5824.5,perchlorate_brine,Sulfolobus acidocaldarius,87.06,H2S,Yes,1801,2585.3,94.8,survived_active
+AST-0142,Titan_tholin_lake,Titan,-164.2,87.71,4965.9,salt_crystal_NaCl,Halobacterium salinarum,2.54,CH4,Yes,2076,19178.9,72.5,complete_death
+AST-0143,Europa_ice_shell,Titan,282.5,71.679,24883.9,salt_crystal_NaCl,Methanopyrus kandleri,12.17,N2O,Yes,2077,7557.0,25.5,survived_dormant
+AST-0144,Mars_briny_subsurface,Mars,49.5,84.003,24039.2,ice_crystal,Sulfolobus acidocaldarius,11.2,H2,No,268,9117.1,84.8,partial_survival
+AST-0145,Europa_ice_shell,Ganymede,219.8,77.938,11784.0,silica_aerogel,Sulfolobus acidocaldarius,30.07,H2S,Yes,1020,3724.5,0.9,inconclusive
+AST-0146,Ganymede_subsurface,Mars,-156.5,160.476,21658.6,silica_aerogel,Sulfolobus acidocaldarius,51.86,formate,Yes,1718,3620.8,93.6,survived_dormant
+AST-0147,early_Earth_anoxic,Mars,312.1,5.997,5101.9,salt_crystal_NaCl,Sulfolobus acidocaldarius,96.53,dimethyl_sulfide,Marginal,1316,598.0,2.6,survived_active
+AST-0148,Mars_briny_subsurface,Ganymede,367.3,182.715,1162.5,salt_crystal_NaCl,None (control),2.85,CO2,Yes,411,313.7,89.7,complete_death
+AST-0149,Europa_ice_shell,Titan,104.0,83.016,22453.6,tholin_organic,Chroococcidiopsis sp.,9.21,H2S,No,1951,9859.2,90.3,survived_active
+AST-0150,Triton_surface,Enceladus,422.2,133.687,2410.0,tholin_organic,Methanopyrus kandleri,12.82,CO2,Yes,2109,2726.0,94.2,inconclusive
+AST-0151,Europa_ice_shell,Ganymede,64.9,177.384,2630.7,perchlorate_brine,Tardigrade (dried),22.56,CO2,Marginal,1234,6901.1,97.4,survived_active
+AST-0152,Triton_surface,Venus,442.0,53.346,22488.3,methane_ice,Bacillus subtilis spores,66.84,H2,Marginal,595,12166.7,93.5,complete_death
+AST-0153,Mars_briny_subsurface,Europa,436.8,2.865,15865.8,perchlorate_brine,Chroococcidiopsis sp.,3.42,formate,No,48,12013.8,48.4,complete_death
+AST-0154,Mars_perchlorate_soil,Titan,445.3,90.639,6570.1,tholin_organic,Halobacterium salinarum,34.39,dimethyl_sulfide,Marginal,2108,19401.6,33.7,inconclusive
+AST-0155,Ganymede_subsurface,Venus,98.8,19.302,21405.4,silica_aerogel,Halobacterium salinarum,89.25,H2,No,105,20259.8,12.6,adapted_morphology
+AST-0156,Europa_ice_shell,Mars,159.6,59.143,21832.7,silica_aerogel,Colwellia psychrerythraea,22.71,formate,Marginal,340,20292.1,97.2,partial_survival
+AST-0157,Titan_tholin_lake,Europa,346.6,44.372,418.0,methane_ice,None (control),18.26,CO2,Marginal,2174,11025.9,80.0,complete_death
+AST-0158,Triton_surface,Europa,45.9,20.029,4140.9,perchlorate_brine,Chroococcidiopsis sp.,36.27,none,Marginal,1737,18024.2,27.8,survived_dormant
+AST-0159,Mars_perchlorate_soil,Venus,431.9,178.749,11700.1,sulfur_mineral,Tardigrade (dried),95.91,H2S,Yes,1030,14875.2,66.8,adapted_morphology
+AST-0160,Europa_ice_shell,Mars,291.8,28.062,12023.3,sulfur_mineral,Methanopyrus kandleri,20.88,formate,Yes,1717,8211.0,19.3,inconclusive
+AST-0161,Titan_tholin_lake,Enceladus,-105.3,80.289,18149.5,sulfur_mineral,Methanopyrus kandleri,83.43,acetate,Yes,1129,15972.3,1.1,survived_active
+AST-0162,Triton_surface,Mars,302.5,119.69,5804.5,tholin_organic,Tardigrade (dried),11.73,CH4,Marginal,1862,3227.2,88.0,adapted_morphology
+AST-0163,early_Earth_anoxic,Enceladus,417.4,8.195,20949.4,silica_aerogel,Halobacterium salinarum,75.43,acetate,No,2397,3537.6,71.0,inconclusive
+AST-0164,Titan_tholin_lake,Venus,-129.4,199.521,15082.9,methane_ice,Methanopyrus kandleri,86.55,acetate,Marginal,1772,8855.2,63.8,adapted_morphology
+AST-0165,Venus_clouds_50km,Ganymede,132.1,83.93,20907.4,methane_ice,Halobacterium salinarum,86.52,H2S,Yes,1989,5097.6,49.5,adapted_morphology
+AST-0166,Venus_clouds_50km,Mars,448.3,165.252,12196.5,salt_crystal_NaCl,None (control),59.11,formate,Yes,442,12397.2,79.4,inconclusive
+AST-0167,Europa_ice_shell,Europa,37.0,134.522,22594.7,salt_crystal_NaCl,Bacillus subtilis spores,95.41,H2S,No,1804,17896.9,57.3,survived_active
+AST-0168,Mars_perchlorate_soil,Ganymede,390.6,43.209,4518.4,methane_ice,Halobacterium salinarum,52.28,dimethyl_sulfide,No,117,15310.2,84.9,partial_survival
+AST-0169,early_Earth_anoxic,Enceladus,432.9,49.741,11150.2,basalt_dust,Sulfolobus acidocaldarius,25.35,acetate,Marginal,1078,16140.8,16.1,inconclusive
+AST-0170,early_Earth_anoxic,Ganymede,63.3,69.708,20386.7,tholin_organic,Halobacterium salinarum,55.85,H2,No,2205,15537.0,83.6,complete_death
+AST-0171,Europa_ice_shell,Ganymede,-137.6,81.214,15545.0,sulfur_mineral,Bacillus subtilis spores,22.76,N2O,No,1989,7362.5,80.6,adapted_morphology
+AST-0172,early_Earth_anoxic,Mars,-124.0,116.37,22720.8,silica_aerogel,None (control),89.58,none,Yes,1631,12987.9,7.6,survived_active
+AST-0173,Mars_perchlorate_soil,Enceladus,-101.8,68.033,8845.0,sulfur_mineral,Bacillus subtilis spores,9.34,CH4,Marginal,1204,12881.8,97.1,inconclusive
+AST-0174,Ganymede_subsurface,Mars,-37.1,31.003,24816.9,basalt_dust,Colwellia psychrerythraea,32.38,N2O,Marginal,897,5152.4,22.6,survived_dormant
+AST-0175,Enceladus_plume,Mars,-4.3,192.918,21438.3,tholin_organic,Colwellia psychrerythraea,64.79,formate,Marginal,2258,20965.8,19.2,survived_dormant
+AST-0176,Mars_perchlorate_soil,Ganymede,175.7,180.469,9677.6,silica_aerogel,Sulfolobus acidocaldarius,18.61,dimethyl_sulfide,No,1517,7654.8,92.6,complete_death
+AST-0177,early_Earth_anoxic,Mars,422.9,26.899,21498.6,perchlorate_brine,None (control),23.47,CO2,Yes,2079,14875.4,53.5,complete_death
+AST-0178,Titan_tholin_lake,Ganymede,29.0,140.429,24412.3,perchlorate_brine,Colwellia psychrerythraea,10.48,dimethyl_sulfide,Marginal,218,9665.0,43.8,complete_death
+AST-0179,Enceladus_plume,Mars,165.7,111.8,1438.6,methane_ice,Colwellia psychrerythraea,59.11,CO2,Yes,1452,1373.7,71.9,survived_active
+AST-0180,Mars_briny_subsurface,Ganymede,190.1,86.167,19109.1,sulfur_mineral,Bacillus subtilis spores,56.98,N2O,Marginal,1852,6506.3,69.7,inconclusive
+AST-0181,Triton_surface,Titan,-102.8,107.923,17033.0,methane_ice,Deinococcus radiodurans,30.47,H2S,Marginal,1468,12336.4,77.5,survived_dormant
+AST-0182,Triton_surface,Titan,275.8,146.512,6220.0,sulfur_mineral,Chroococcidiopsis sp.,7.1,H2S,Marginal,2028,15302.0,33.2,survived_active
+AST-0183,Mars_perchlorate_soil,Titan,50.3,94.882,21181.6,sulfur_mineral,Halobacterium salinarum,9.42,dimethyl_sulfide,No,727,14852.5,87.9,partial_survival
+AST-0184,Venus_clouds_50km,Titan,-66.4,70.241,16180.6,ice_crystal,Sulfolobus acidocaldarius,49.97,acetate,Yes,2146,5413.1,87.9,survived_dormant
+AST-0185,Mars_briny_subsurface,Ganymede,45.1,33.703,24090.0,basalt_dust,Deinococcus radiodurans,6.09,H2,No,1255,580.7,90.5,complete_death
+AST-0186,Enceladus_plume,Europa,215.2,99.641,13380.3,methane_ice,Halobacterium salinarum,56.34,CO2,Marginal,1533,12053.7,89.1,survived_active
+AST-0187,Triton_surface,Europa,330.1,89.022,15552.1,ice_crystal,Tardigrade (dried),70.64,dimethyl_sulfide,Yes,1430,14343.7,59.0,survived_dormant
+AST-0188,Ganymede_subsurface,Europa,193.9,199.468,23000.0,tholin_organic,None (control),16.74,formate,No,477,14042.8,6.5,survived_active
+AST-0189,Titan_tholin_lake,Titan,-74.3,80.858,8958.0,tholin_organic,Halobacterium salinarum,24.62,none,Yes,1313,19149.2,56.3,survived_dormant
+AST-0190,Mars_perchlorate_soil,Venus,219.5,56.513,3386.9,perchlorate_brine,Tardigrade (dried),70.22,formate,No,1783,7918.4,49.0,complete_death
+AST-0191,Triton_surface,Titan,197.8,61.18,24807.2,silica_aerogel,Deinococcus radiodurans,49.12,none,Yes,771,19882.4,30.7,adapted_morphology
+AST-0192,Triton_surface,Europa,218.0,147.852,13357.3,basalt_dust,Tardigrade (dried),58.75,formate,Yes,1441,20247.9,5.2,complete_death
+AST-0193,Triton_surface,Venus,352.6,101.75,17028.3,basalt_dust,Methanopyrus kandleri,82.54,CH4,No,761,18739.5,71.2,partial_survival
+AST-0194,Ganymede_subsurface,Europa,173.0,122.604,1130.8,salt_crystal_NaCl,Methanopyrus kandleri,7.3,CH4,No,20,18992.3,66.0,survived_dormant
+AST-0195,Mars_perchlorate_soil,Europa,44.2,167.558,1118.9,sulfur_mineral,Methanopyrus kandleri,91.52,dimethyl_sulfide,No,2337,14913.6,90.2,survived_active
+AST-0196,Venus_clouds_50km,Titan,249.9,83.178,10341.0,silica_aerogel,Methanopyrus kandleri,30.97,acetate,No,43,13157.3,39.5,inconclusive
+AST-0197,Enceladus_plume,Ganymede,249.4,14.106,2859.5,sulfur_mineral,Colwellia psychrerythraea,69.6,CH4,Yes,2200,6874.9,94.4,partial_survival
+AST-0198,Mars_perchlorate_soil,Enceladus,150.4,56.942,14252.7,ice_crystal,Halobacterium salinarum,25.65,formate,Yes,355,11649.7,49.8,inconclusive
+AST-0199,Ganymede_subsurface,Titan,-125.4,45.73,20827.4,sulfur_mineral,Halobacterium salinarum,12.71,CH4,Yes,1786,12921.7,43.8,survived_active
+AST-0200,Mars_briny_subsurface,Ganymede,407.1,153.358,4724.2,perchlorate_brine,Sulfolobus acidocaldarius,14.28,H2S,Marginal,59,19920.4,34.1,complete_death

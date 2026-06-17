@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend:/app
+      - ./animal_xenolinguistics_db.csv:/app/animal_xenolinguistics_db.csv
+      - ./astrobiology_simulation_experiments.csv:/app/astrobiology_simulation_experiments.csv
+      - ./exoplanet_biosignature_survey.csv:/app/exoplanet_biosignature_survey.csv
+      - ./extremophile_microbe_db.csv:/app/extremophile_microbe_db.csv
+      - ./sperm_whale_communication.csv:/app/sperm_whale_communication.csv
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend

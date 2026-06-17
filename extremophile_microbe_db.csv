@@ -1,0 +1,201 @@
+sample_id,organism_name,environment_type,location,temperature_celsius,pH_level,salinity_ppt,pressure_atm,radiation_tolerance_Gy,survival_duration_years,metabolic_rate_nmol_per_hr,dormancy_capable,analog_planet,biosignature_type,discovery_year
+EXP-0001,Chroococcidiopsis thermalis,permafrost,"Dead Sea, Israel",70.16,0.78,96.3,134.7,14729.6,726600540,70.364,Yes,Mars,unusual_mineral_pigment,1982
+EXP-0002,Nanoarchaeum equitans,hydrothermal_vent,"Atacama Desert, Chile",12.81,7.12,196.4,429.9,14026.6,450455978,20.943,No,Icy Moon (Generic),organic_polymer,1998
+EXP-0003,Nanoarchaeum equitans,hydrothermal_vent,"Mono Lake, USA",19.18,2.87,267.2,62.2,7598.9,385451172,80.512,No,Venus,unusual_mineral_pigment,2003
+EXP-0004,Colwellia psychrerythraea,deep_sea_sediment,"Yellowstone NP, USA",-8.89,3.72,220.0,531.4,7233.0,206468300,66.935,Yes,Mars,biofluorescence,1967
+EXP-0005,Chroococcidiopsis thermalis,subglacial_lake,"Enceladus analog, Canada",33.6,5.49,291.9,98.4,7105.7,719595114,25.364,Yes,Icy Moon (Generic),biofluorescence,1975
+EXP-0006,Thermus aquaticus,hydrothermal_vent,"Mariana Trench, Pacific",45.18,3.47,323.9,413.2,4392.7,348195936,80.071,Yes,Titan,UV_absorption_signature,1963
+EXP-0007,Pyrolobus fumarii,stratosphere,"Atacama Desert, Chile",9.75,10.87,306.7,189.5,13108.9,424806517,84.045,No,Europa,UV_absorption_signature,2009
+EXP-0008,Pyrolobus fumarii,subglacial_lake,"Danakil Depression, Ethiopia",106.59,4.89,76.8,598.5,10190.8,97613239,71.8,Yes,Venus,unusual_mineral_pigment,2004
+EXP-0009,Colwellia psychrerythraea,desert_crust,"Yellowstone NP, USA",33.81,11.46,185.2,582.7,17215.7,12327653,64.627,Yes,Icy Moon (Generic),isotopic_fractionation,1969
+EXP-0010,Desulforudis audaxviator,stratosphere,"Enceladus analog, Canada",21.38,2.24,1.1,433.5,14393.8,537500248,72.387,Yes,Venus,biofluorescence,1974
+EXP-0011,Haloarcula marismortui,acidic_hot_spring,"Yellowstone NP, USA",32.72,2.28,333.7,553.5,18369.9,643111854,30.796,Yes,Europa,trace_gas_methane,1985
+EXP-0012,Pyrolobus fumarii,hypersaline_lake,"Enceladus analog, Canada",103.8,10.92,30.0,292.1,1384.7,816690354,50.608,Yes,Europa,UV_absorption_signature,2022
+EXP-0013,Colwellia psychrerythraea,acidic_hot_spring,"Mono Lake, USA",103.01,5.15,74.1,324.0,14598.8,215984312,67.73,No,Venus,salt_crystal_inclusion,1970
+EXP-0014,Thermus aquaticus,salt_crystal,"Dead Sea, Israel",14.95,1.2,7.4,332.8,11769.0,7721110,6.745,Yes,Enceladus,unusual_mineral_pigment,2020
+EXP-0015,Nanoarchaeum equitans,hypersaline_lake,"Danakil Depression, Ethiopia",13.56,7.86,75.0,80.3,18710.3,613152855,54.741,Yes,Europa,unusual_mineral_pigment,1967
+EXP-0016,Deinococcus radiodurans,permafrost,"Mariana Trench, Pacific",72.92,4.4,143.9,518.4,1083.9,701642484,93.496,Yes,Mars,biofluorescence,1979
+EXP-0017,Deinococcus radiodurans,desert_crust,"Dead Sea, Israel",6.82,5.43,147.7,167.8,4996.5,80943909,42.098,Yes,Mars,biofluorescence,1976
+EXP-0018,Candidatus Dormibacteraeota,hypersaline_lake,"Yellowstone NP, USA",37.3,5.79,302.6,541.6,3293.2,2314314,93.604,No,Titan,salt_crystal_inclusion,1974
+EXP-0019,Tardigrade (Ramazzottius),desert_crust,"Atacama Desert, Chile",6.78,2.89,20.5,441.7,1219.6,336730607,5.432,No,Mars,unusual_mineral_pigment,1978
+EXP-0020,Chroococcidiopsis thermalis,salt_crystal,"Danakil Depression, Ethiopia",-10.34,1.25,301.6,242.9,18832.0,611684319,23.391,Yes,Icy Moon (Generic),isotopic_fractionation,1988
+EXP-0021,Deinococcus radiodurans,hypersaline_lake,"Europa analog, Iceland",8.8,8.38,83.5,238.1,13434.0,322119409,43.437,Yes,Venus,unusual_mineral_pigment,1964
+EXP-0022,Sulfolobus acidocaldarius,desert_crust,"Yellowstone NP, USA",55.81,6.06,46.4,210.1,1376.3,262298394,35.106,Yes,Venus,trace_gas_methane,2025
+EXP-0023,Acidithiobacillus ferrooxidans,stratosphere,"Europa analog, Iceland",22.21,7.8,328.6,81.4,2309.0,114929003,70.53,Yes,Europa,isotopic_fractionation,1981
+EXP-0024,Desulforudis audaxviator,stratosphere,"Dead Sea, Israel",76.94,9.88,176.9,151.4,18163.2,54544900,8.769,No,Mars,isotopic_fractionation,1971
+EXP-0025,Tardigrade (Ramazzottius),hydrothermal_vent,"Mariana Trench, Pacific",69.83,3.38,259.4,331.5,8554.0,10382762,10.629,Yes,Venus,molecular_fragment,2010
+EXP-0026,Colwellia psychrerythraea,salt_crystal,"Mariana Trench, Pacific",-2.03,3.89,314.6,477.9,17214.1,384194738,19.958,Yes,Venus,organic_polymer,1974
+EXP-0027,Nanoarchaeum equitans,permafrost,"Lake Vostok, Antarctica",110.53,3.1,56.9,480.1,3541.5,442697756,2.356,No,Enceladus,molecular_fragment,1968
+EXP-0028,Thermus aquaticus,hydrothermal_vent,"Lake Vostok, Antarctica",33.94,0.93,164.7,120.5,18369.1,375442873,28.994,Yes,Titan,isotopic_fractionation,1990
+EXP-0029,Haloarcula marismortui,stratosphere,"Atacama Desert, Chile",101.87,11.14,97.7,385.2,7993.9,575757258,31.46,Yes,Venus,UV_absorption_signature,1959
+EXP-0030,Acidithiobacillus ferrooxidans,hydrothermal_vent,"Danakil Depression, Ethiopia",-4.72,5.28,255.0,188.9,12124.4,549136332,10.987,Yes,Mars,biofluorescence,2001
+EXP-0031,Tardigrade (Ramazzottius),stratosphere,"Danakil Depression, Ethiopia",40.81,10.94,322.3,374.3,13267.9,133815414,68.377,No,Enceladus,organic_polymer,1992
+EXP-0032,Halobacterium salinarum,desert_crust,"Dead Sea, Israel",58.17,2.61,232.7,228.1,14962.8,186860434,58.474,No,Enceladus,UV_absorption_signature,1981
+EXP-0033,Colwellia psychrerythraea,salt_crystal,"Yellowstone NP, USA",40.61,6.88,229.1,279.5,8843.5,229460135,48.562,Yes,Venus,isotopic_fractionation,1966
+EXP-0034,Chroococcidiopsis thermalis,salt_crystal,"Mono Lake, USA",95.4,8.76,235.5,135.6,3983.0,26226564,4.391,No,Titan,biofluorescence,2004
+EXP-0035,Thermus aquaticus,subglacial_lake,"Enceladus analog, Canada",49.71,3.18,229.6,4.3,15019.4,826830796,84.119,No,Titan,trace_gas_methane,2026
+EXP-0036,Chroococcidiopsis thermalis,desert_crust,"Danakil Depression, Ethiopia",15.14,9.83,159.8,481.0,13351.7,600141463,56.568,No,Venus,salt_crystal_inclusion,1975
+EXP-0037,Colwellia psychrerythraea,deep_sea_sediment,"Yellowstone NP, USA",84.86,5.72,90.7,149.1,12753.4,822286181,73.879,No,Titan,unusual_mineral_pigment,1991
+EXP-0038,Haloarcula marismortui,permafrost,"Danakil Depression, Ethiopia",13.06,4.19,312.6,49.3,3017.0,411281013,65.926,Yes,Enceladus,salt_crystal_inclusion,2008
+EXP-0039,Sulfolobus acidocaldarius,hydrothermal_vent,"Mariana Trench, Pacific",-11.22,9.66,136.3,462.1,18921.3,20972274,81.39,No,Enceladus,organic_polymer,2008
+EXP-0040,Halobacterium salinarum,acidic_hot_spring,"Danakil Depression, Ethiopia",55.89,8.58,280.0,538.8,9764.8,293062062,41.405,Yes,Icy Moon (Generic),molecular_fragment,2014
+EXP-0041,Pyrolobus fumarii,hypersaline_lake,"Atacama Desert, Chile",109.66,11.29,186.9,544.3,11838.1,711890570,2.576,No,Mars,UV_absorption_signature,2003
+EXP-0042,Sulfolobus acidocaldarius,hydrothermal_vent,"Enceladus analog, Canada",26.16,5.5,118.1,527.9,5565.5,452651789,23.967,Yes,Mars,isotopic_fractionation,1983
+EXP-0043,Thermus aquaticus,subglacial_lake,"Mono Lake, USA",71.67,9.09,228.1,452.8,18992.3,214061902,79.727,Yes,Icy Moon (Generic),unusual_mineral_pigment,1982
+EXP-0044,Acidithiobacillus ferrooxidans,salt_crystal,"Europa analog, Iceland",45.57,3.32,129.1,363.9,19274.7,771330208,10.882,Yes,Mars,UV_absorption_signature,2003
+EXP-0045,Desulforudis audaxviator,polar_ice_sheet,"Great Salt Lake, USA",35.93,8.37,26.6,414.7,12545.0,109415692,66.234,No,Venus,trace_gas_methane,1999
+EXP-0046,Halobacterium salinarum,acidic_hot_spring,"Mono Lake, USA",55.12,7.78,24.1,388.9,253.5,451034640,78.122,Yes,Icy Moon (Generic),molecular_fragment,2010
+EXP-0047,Methanopyrus kandleri,deep_sea_sediment,"Great Salt Lake, USA",4.84,6.24,227.7,369.9,18392.4,519151496,44.164,No,Enceladus,salt_crystal_inclusion,1986
+EXP-0048,Methanopyrus kandleri,stratosphere,"Mariana Trench, Pacific",85.82,6.77,233.9,202.5,9886.4,348981306,17.276,Yes,Enceladus,UV_absorption_signature,2026
+EXP-0049,Colwellia psychrerythraea,hypersaline_lake,"Mono Lake, USA",-18.57,10.93,30.0,432.3,9771.8,814073099,22.832,No,Mars,unusual_mineral_pigment,1992
+EXP-0050,Methanopyrus kandleri,hypersaline_lake,"Yellowstone NP, USA",11.25,8.11,107.2,349.4,9465.5,570073086,32.658,No,Enceladus,UV_absorption_signature,1984
+EXP-0051,Acidithiobacillus ferrooxidans,polar_ice_sheet,"Enceladus analog, Canada",-2.99,2.62,41.8,322.0,15243.9,198803135,18.197,No,Venus,UV_absorption_signature,1967
+EXP-0052,Tardigrade (Ramazzottius),stratosphere,"Atacama Desert, Chile",97.4,3.76,126.3,182.1,14160.5,135917420,26.06,Yes,Icy Moon (Generic),salt_crystal_inclusion,1968
+EXP-0053,Haloarcula marismortui,salt_crystal,"Danakil Depression, Ethiopia",103.05,6.81,164.3,264.8,3687.7,55165335,23.986,No,Titan,unusual_mineral_pigment,1961
+EXP-0054,Nanoarchaeum equitans,desert_crust,"Danakil Depression, Ethiopia",1.39,9.42,332.2,52.0,4964.2,599226356,72.622,Yes,Titan,salt_crystal_inclusion,1993
+EXP-0055,Colwellia psychrerythraea,deep_sea_sediment,"Yellowstone NP, USA",101.28,11.39,106.9,373.0,12192.8,794664846,9.428,Yes,Icy Moon (Generic),unusual_mineral_pigment,1975
+EXP-0056,Acidithiobacillus ferrooxidans,stratosphere,"Mono Lake, USA",13.82,6.57,54.8,245.7,13787.6,504564683,27.67,Yes,Mars,biofluorescence,1988
+EXP-0057,Candidatus Dormibacteraeota,stratosphere,"Atacama Desert, Chile",91.08,7.38,231.4,560.3,8503.1,584719406,21.358,Yes,Mars,trace_gas_methane,1976
+EXP-0058,Acidithiobacillus ferrooxidans,desert_crust,"Enceladus analog, Canada",91.76,7.05,288.5,552.8,8783.3,503260609,65.425,No,Titan,salt_crystal_inclusion,1965
+EXP-0059,Nanoarchaeum equitans,stratosphere,"Europa analog, Iceland",64.32,10.28,257.1,362.6,517.8,245805720,91.382,Yes,Mars,molecular_fragment,2015
+EXP-0060,Methanopyrus kandleri,permafrost,"Mariana Trench, Pacific",53.17,5.36,97.4,598.2,8718.0,527986560,92.06,No,Enceladus,unusual_mineral_pigment,1975
+EXP-0061,Methanopyrus kandleri,stratosphere,"Mariana Trench, Pacific",26.5,8.13,100.9,567.2,16271.4,590661741,3.487,Yes,Mars,organic_polymer,2020
+EXP-0062,Colwellia psychrerythraea,hypersaline_lake,"Dead Sea, Israel",96.31,0.51,304.3,277.7,1084.6,556670063,34.37,No,Europa,UV_absorption_signature,2025
+EXP-0063,Ferroplasma acidarmanus,subglacial_lake,"Yellowstone NP, USA",-1.53,3.67,308.3,291.3,577.9,676481265,57.843,Yes,Venus,trace_gas_methane,2025
+EXP-0064,Candidatus Dormibacteraeota,stratosphere,"Enceladus analog, Canada",37.53,2.97,294.5,69.0,18941.2,695472981,79.054,No,Icy Moon (Generic),UV_absorption_signature,2008
+EXP-0065,Desulforudis audaxviator,salt_crystal,"Yellowstone NP, USA",97.7,11.28,85.3,331.2,7672.0,643576793,48.283,Yes,Titan,isotopic_fractionation,2019
+EXP-0066,Sulfolobus acidocaldarius,desert_crust,"Mono Lake, USA",17.67,0.53,254.1,502.6,11598.7,708605989,46.516,Yes,Enceladus,isotopic_fractionation,2025
+EXP-0067,Desulforudis audaxviator,permafrost,"Dead Sea, Israel",87.57,4.65,326.5,521.9,19615.5,256415501,54.321,Yes,Enceladus,salt_crystal_inclusion,2003
+EXP-0068,Desulforudis audaxviator,salt_crystal,"Mono Lake, USA",34.44,7.8,287.3,588.5,9906.8,39749509,11.994,No,Mars,salt_crystal_inclusion,1956
+EXP-0069,Colwellia psychrerythraea,salt_crystal,"Mariana Trench, Pacific",81.86,5.01,229.2,93.5,9390.1,284566045,32.164,No,Icy Moon (Generic),organic_polymer,1995
+EXP-0070,Thermus aquaticus,salt_crystal,"Danakil Depression, Ethiopia",68.38,10.26,170.8,325.1,12349.4,252082632,59.961,No,Mars,unusual_mineral_pigment,2011
+EXP-0071,Thermus aquaticus,desert_crust,"Danakil Depression, Ethiopia",3.46,3.79,10.1,195.3,1122.9,384897085,35.611,Yes,Venus,molecular_fragment,1976
+EXP-0072,Colwellia psychrerythraea,stratosphere,"Mono Lake, USA",4.68,7.2,133.9,410.2,9953.6,626160205,13.597,No,Enceladus,trace_gas_methane,2014
+EXP-0073,Ferroplasma acidarmanus,stratosphere,"Mono Lake, USA",107.07,7.95,55.3,265.6,6911.6,630900314,28.42,No,Enceladus,biofluorescence,2004
+EXP-0074,Acidithiobacillus ferrooxidans,hydrothermal_vent,"Europa analog, Iceland",100.32,1.67,133.5,216.0,5917.8,750845199,28.048,No,Icy Moon (Generic),trace_gas_methane,2018
+EXP-0075,Colwellia psychrerythraea,subglacial_lake,"Great Salt Lake, USA",97.43,10.43,271.5,138.8,16038.7,235154330,60.479,No,Icy Moon (Generic),trace_gas_methane,1994
+EXP-0076,Thermus aquaticus,subglacial_lake,"Enceladus analog, Canada",91.19,0.87,127.7,79.7,18192.6,350811991,71.011,Yes,Enceladus,UV_absorption_signature,1976
+EXP-0077,Haloarcula marismortui,subglacial_lake,"Lake Vostok, Antarctica",16.23,9.57,168.6,484.1,14931.3,363692736,76.402,No,Icy Moon (Generic),organic_polymer,2026
+EXP-0078,Chroococcidiopsis thermalis,permafrost,"Mariana Trench, Pacific",31.57,9.2,4.9,322.4,9096.0,722443972,71.156,No,Mars,biofluorescence,2015
+EXP-0079,Candidatus Dormibacteraeota,stratosphere,"Danakil Depression, Ethiopia",-16.47,10.23,196.5,549.2,4427.7,67878778,60.364,No,Mars,molecular_fragment,1960
+EXP-0080,Colwellia psychrerythraea,desert_crust,"Danakil Depression, Ethiopia",113.42,3.85,172.4,59.2,17745.2,145668164,36.922,No,Venus,molecular_fragment,2008
+EXP-0081,Sulfolobus acidocaldarius,deep_sea_sediment,"Mariana Trench, Pacific",72.34,9.67,215.5,563.5,5595.2,741183220,35.201,No,Mars,isotopic_fractionation,2024
+EXP-0082,Colwellia psychrerythraea,polar_ice_sheet,"Dead Sea, Israel",107.14,7.59,21.2,166.3,19364.2,488249063,8.71,Yes,Mars,isotopic_fractionation,1986
+EXP-0083,Methanopyrus kandleri,subglacial_lake,"Europa analog, Iceland",119.42,9.16,71.8,498.1,11084.4,629624047,20.516,Yes,Mars,UV_absorption_signature,1973
+EXP-0084,Chroococcidiopsis thermalis,acidic_hot_spring,"Dead Sea, Israel",119.24,6.44,279.5,66.8,17329.0,141522641,1.413,Yes,Europa,UV_absorption_signature,1961
+EXP-0085,Sulfolobus acidocaldarius,desert_crust,"Lake Vostok, Antarctica",-2.13,5.13,39.8,39.1,8965.8,388736389,48.758,Yes,Venus,trace_gas_methane,2021
+EXP-0086,Ferroplasma acidarmanus,hypersaline_lake,"Great Salt Lake, USA",22.53,7.58,10.9,599.2,16946.0,457707814,65.18,No,Mars,isotopic_fractionation,1973
+EXP-0087,Tardigrade (Ramazzottius),polar_ice_sheet,"Danakil Depression, Ethiopia",-10.74,3.53,221.6,329.5,6504.0,641444619,50.403,No,Mars,unusual_mineral_pigment,2025
+EXP-0088,Methanopyrus kandleri,permafrost,"Mariana Trench, Pacific",81.64,2.87,158.0,137.9,6779.0,486940739,37.88,Yes,Icy Moon (Generic),UV_absorption_signature,2002
+EXP-0089,Nanoarchaeum equitans,subglacial_lake,"Enceladus analog, Canada",114.46,8.06,166.0,55.6,1707.7,463723881,9.175,No,Mars,isotopic_fractionation,1970
+EXP-0090,Methanopyrus kandleri,salt_crystal,"Europa analog, Iceland",37.92,10.11,329.4,254.3,18316.9,55239804,91.998,No,Venus,biofluorescence,1974
+EXP-0091,Nanoarchaeum equitans,permafrost,"Enceladus analog, Canada",72.6,2.97,37.9,507.4,7351.5,818841564,26.465,Yes,Venus,trace_gas_methane,1989
+EXP-0092,Haloarcula marismortui,subglacial_lake,"Dead Sea, Israel",-15.92,3.51,266.8,553.0,7020.8,194782735,82.637,No,Mars,biofluorescence,2003
+EXP-0093,Pyrolobus fumarii,subglacial_lake,"Europa analog, Iceland",39.2,4.25,129.5,433.2,15536.8,609448940,56.642,Yes,Mars,unusual_mineral_pigment,1989
+EXP-0094,Haloarcula marismortui,stratosphere,"Europa analog, Iceland",42.48,5.16,212.5,249.1,4311.8,550127662,10.814,No,Titan,UV_absorption_signature,1960
+EXP-0095,Acidithiobacillus ferrooxidans,acidic_hot_spring,"Great Salt Lake, USA",11.09,11.33,19.2,123.4,18906.5,823935281,13.038,No,Mars,salt_crystal_inclusion,2010
+EXP-0096,Halobacterium salinarum,hydrothermal_vent,"Mono Lake, USA",4.77,4.68,246.3,300.7,16667.2,380284108,6.848,Yes,Mars,isotopic_fractionation,2009
+EXP-0097,Desulforudis audaxviator,acidic_hot_spring,"Great Salt Lake, USA",60.85,8.3,146.2,70.0,417.6,348717184,16.329,No,Titan,unusual_mineral_pigment,1986
+EXP-0098,Haloarcula marismortui,desert_crust,"Great Salt Lake, USA",41.43,4.9,27.5,522.4,14916.2,237911188,31.642,Yes,Venus,biofluorescence,1999
+EXP-0099,Nanoarchaeum equitans,salt_crystal,"Atacama Desert, Chile",29.51,11.04,225.9,89.5,2056.5,274843787,18.742,Yes,Icy Moon (Generic),salt_crystal_inclusion,2014
+EXP-0100,Desulforudis audaxviator,acidic_hot_spring,"Atacama Desert, Chile",86.38,8.86,157.1,554.6,11290.1,682146376,93.721,No,Titan,unusual_mineral_pigment,2015
+EXP-0101,Deinococcus radiodurans,acidic_hot_spring,"Yellowstone NP, USA",42.35,3.83,96.1,34.6,10147.0,333297891,43.866,Yes,Mars,unusual_mineral_pigment,2019
+EXP-0102,Chroococcidiopsis thermalis,hypersaline_lake,"Enceladus analog, Canada",34.21,6.88,334.0,443.6,820.9,613811694,61.925,No,Europa,trace_gas_methane,2012
+EXP-0103,Sulfolobus acidocaldarius,desert_crust,"Enceladus analog, Canada",-5.41,10.39,120.2,428.9,10091.2,185283723,3.719,No,Venus,molecular_fragment,2001
+EXP-0104,Methanopyrus kandleri,salt_crystal,"Enceladus analog, Canada",32.57,3.61,143.1,203.7,11957.9,677409304,61.494,Yes,Icy Moon (Generic),organic_polymer,1991
+EXP-0105,Candidatus Dormibacteraeota,acidic_hot_spring,"Yellowstone NP, USA",15.53,9.87,337.5,362.0,3007.9,87512089,55.361,Yes,Icy Moon (Generic),organic_polymer,1971
+EXP-0106,Colwellia psychrerythraea,permafrost,"Enceladus analog, Canada",63.9,10.82,108.4,226.6,15833.3,137217506,63.661,Yes,Enceladus,trace_gas_methane,2001
+EXP-0107,Desulforudis audaxviator,salt_crystal,"Enceladus analog, Canada",23.55,10.96,119.6,459.9,3840.5,147709680,14.721,No,Venus,trace_gas_methane,1998
+EXP-0108,Ferroplasma acidarmanus,hypersaline_lake,"Dead Sea, Israel",103.57,7.3,209.0,93.4,3617.3,743937342,73.255,Yes,Titan,isotopic_fractionation,1985
+EXP-0109,Candidatus Dormibacteraeota,deep_sea_sediment,"Mariana Trench, Pacific",116.71,7.22,263.3,470.5,4680.4,256805217,29.4,No,Icy Moon (Generic),salt_crystal_inclusion,2014
+EXP-0110,Desulforudis audaxviator,stratosphere,"Dead Sea, Israel",88.49,9.06,176.0,251.8,3241.6,214423807,76.12,Yes,Icy Moon (Generic),salt_crystal_inclusion,2002
+EXP-0111,Candidatus Dormibacteraeota,desert_crust,"Atacama Desert, Chile",58.19,1.63,296.1,510.8,5701.6,819390459,15.231,No,Titan,unusual_mineral_pigment,1983
+EXP-0112,Methanopyrus kandleri,deep_sea_sediment,"Dead Sea, Israel",95.16,10.23,325.7,249.5,7929.4,401538093,22.4,Yes,Enceladus,unusual_mineral_pigment,1997
+EXP-0113,Sulfolobus acidocaldarius,polar_ice_sheet,"Dead Sea, Israel",91.58,2.01,100.4,498.0,13921.6,149027518,72.09,No,Mars,trace_gas_methane,1987
+EXP-0114,Deinococcus radiodurans,deep_sea_sediment,"Danakil Depression, Ethiopia",10.41,2.14,329.1,365.7,8465.4,309346715,22.577,Yes,Icy Moon (Generic),salt_crystal_inclusion,1963
+EXP-0115,Halobacterium salinarum,hydrothermal_vent,"Europa analog, Iceland",-4.37,10.46,208.9,10.8,10307.8,259779091,68.262,No,Enceladus,biofluorescence,2008
+EXP-0116,Halobacterium salinarum,hypersaline_lake,"Dead Sea, Israel",6.41,7.85,183.2,217.0,19068.1,584203558,48.197,Yes,Icy Moon (Generic),organic_polymer,2002
+EXP-0117,Pyrolobus fumarii,hydrothermal_vent,"Mariana Trench, Pacific",15.76,0.68,276.0,207.5,14659.0,674585779,9.849,No,Venus,isotopic_fractionation,1977
+EXP-0118,Deinococcus radiodurans,stratosphere,"Lake Vostok, Antarctica",97.08,8.03,343.3,287.6,3646.0,144796860,5.995,No,Mars,biofluorescence,1960
+EXP-0119,Acidithiobacillus ferrooxidans,acidic_hot_spring,"Dead Sea, Israel",24.5,3.91,139.4,489.4,9468.3,39321249,71.563,Yes,Icy Moon (Generic),isotopic_fractionation,1989
+EXP-0120,Sulfolobus acidocaldarius,hypersaline_lake,"Mariana Trench, Pacific",-2.45,4.55,311.3,446.2,17892.8,415156662,32.209,Yes,Venus,UV_absorption_signature,1965
+EXP-0121,Colwellia psychrerythraea,stratosphere,"Yellowstone NP, USA",82.52,1.37,210.9,493.6,10909.7,344898149,9.748,No,Titan,organic_polymer,1976
+EXP-0122,Haloarcula marismortui,permafrost,"Mariana Trench, Pacific",77.26,4.37,14.8,522.2,7051.5,467013809,26.083,Yes,Venus,molecular_fragment,1958
+EXP-0123,Chroococcidiopsis thermalis,hydrothermal_vent,"Europa analog, Iceland",0.13,7.18,273.5,21.8,1345.1,692738368,34.802,No,Europa,salt_crystal_inclusion,2002
+EXP-0124,Deinococcus radiodurans,subglacial_lake,"Mono Lake, USA",32.45,8.89,200.9,318.1,7961.0,697460536,26.476,Yes,Venus,organic_polymer,2026
+EXP-0125,Thermus aquaticus,salt_crystal,"Atacama Desert, Chile",-3.4,9.02,246.4,129.5,12237.7,745156040,87.066,No,Mars,salt_crystal_inclusion,1977
+EXP-0126,Tardigrade (Ramazzottius),desert_crust,"Yellowstone NP, USA",106.71,5.4,30.7,409.5,16910.5,343154755,63.445,Yes,Enceladus,molecular_fragment,1977
+EXP-0127,Sulfolobus acidocaldarius,desert_crust,"Atacama Desert, Chile",91.91,6.1,42.5,121.4,2778.0,530452019,2.498,No,Venus,unusual_mineral_pigment,1963
+EXP-0128,Colwellia psychrerythraea,salt_crystal,"Mono Lake, USA",23.61,11.5,251.6,315.9,15383.4,617294721,7.007,No,Titan,isotopic_fractionation,1971
+EXP-0129,Desulforudis audaxviator,salt_crystal,"Enceladus analog, Canada",103.79,9.08,223.9,110.0,19325.3,464520347,47.773,Yes,Europa,UV_absorption_signature,1976
+EXP-0130,Thermus aquaticus,desert_crust,"Yellowstone NP, USA",2.84,10.78,78.9,568.5,10378.2,304994550,80.364,No,Europa,UV_absorption_signature,2023
+EXP-0131,Desulforudis audaxviator,polar_ice_sheet,"Dead Sea, Israel",-6.83,7.55,207.1,348.8,3424.4,670529420,68.46,No,Mars,unusual_mineral_pigment,1960
+EXP-0132,Candidatus Dormibacteraeota,desert_crust,"Yellowstone NP, USA",113.75,8.98,92.6,127.3,11443.0,663688867,60.705,No,Icy Moon (Generic),UV_absorption_signature,2016
+EXP-0133,Sulfolobus acidocaldarius,deep_sea_sediment,"Mariana Trench, Pacific",14.53,9.38,142.1,272.7,13772.4,169737591,41.763,No,Venus,molecular_fragment,1995
+EXP-0134,Methanopyrus kandleri,deep_sea_sediment,"Mono Lake, USA",101.47,4.01,345.8,207.9,7974.6,816757817,35.202,Yes,Mars,UV_absorption_signature,2012
+EXP-0135,Desulforudis audaxviator,acidic_hot_spring,"Europa analog, Iceland",14.96,1.56,101.6,231.1,12307.7,266578179,91.455,Yes,Icy Moon (Generic),isotopic_fractionation,1979
+EXP-0136,Tardigrade (Ramazzottius),hypersaline_lake,"Lake Vostok, Antarctica",87.6,5.98,180.2,299.8,6171.2,24885366,8.556,No,Europa,isotopic_fractionation,1961
+EXP-0137,Halobacterium salinarum,subglacial_lake,"Yellowstone NP, USA",-12.87,5.94,308.8,392.9,9412.0,576267307,0.778,Yes,Icy Moon (Generic),isotopic_fractionation,2006
+EXP-0138,Nanoarchaeum equitans,desert_crust,"Yellowstone NP, USA",31.6,4.91,199.6,117.6,11064.7,78954114,36.704,No,Venus,unusual_mineral_pigment,1971
+EXP-0139,Tardigrade (Ramazzottius),hydrothermal_vent,"Dead Sea, Israel",117.49,4.83,278.2,204.1,18779.0,810637682,13.706,No,Mars,molecular_fragment,1997
+EXP-0140,Chroococcidiopsis thermalis,stratosphere,"Europa analog, Iceland",93.36,6.21,52.1,536.0,2796.0,658276887,30.261,No,Enceladus,salt_crystal_inclusion,1993
+EXP-0141,Chroococcidiopsis thermalis,hypersaline_lake,"Yellowstone NP, USA",46.96,0.68,115.9,66.7,8331.1,330366557,75.692,Yes,Icy Moon (Generic),biofluorescence,1961
+EXP-0142,Deinococcus radiodurans,polar_ice_sheet,"Great Salt Lake, USA",62.28,2.38,220.2,372.2,16823.4,158672960,78.058,Yes,Europa,trace_gas_methane,2011
+EXP-0143,Ferroplasma acidarmanus,subglacial_lake,"Enceladus analog, Canada",24.23,2.17,241.7,246.8,15499.6,506382506,82.918,Yes,Europa,isotopic_fractionation,2016
+EXP-0144,Chroococcidiopsis thermalis,hypersaline_lake,"Lake Vostok, Antarctica",54.09,3.95,60.6,547.4,6846.9,380412755,64.208,No,Europa,UV_absorption_signature,2026
+EXP-0145,Sulfolobus acidocaldarius,acidic_hot_spring,"Enceladus analog, Canada",22.09,10.86,343.8,462.9,14098.2,741139462,66.974,No,Icy Moon (Generic),UV_absorption_signature,1991
+EXP-0146,Ferroplasma acidarmanus,salt_crystal,"Mariana Trench, Pacific",-2.82,7.94,132.9,588.1,16367.6,157277542,27.594,No,Titan,UV_absorption_signature,2016
+EXP-0147,Thermus aquaticus,hydrothermal_vent,"Enceladus analog, Canada",10.17,9.61,94.9,337.6,5432.8,117281150,58.49,Yes,Europa,biofluorescence,1961
+EXP-0148,Halobacterium salinarum,hypersaline_lake,"Mono Lake, USA",-5.87,4.13,165.3,409.0,2749.8,590936561,92.902,Yes,Icy Moon (Generic),biofluorescence,1991
+EXP-0149,Candidatus Dormibacteraeota,subglacial_lake,"Danakil Depression, Ethiopia",25.28,7.6,317.8,54.6,11482.9,574615377,70.175,Yes,Europa,trace_gas_methane,2005
+EXP-0150,Candidatus Dormibacteraeota,acidic_hot_spring,"Yellowstone NP, USA",91.1,2.55,262.2,523.5,5789.7,40229007,0.881,Yes,Titan,salt_crystal_inclusion,1972
+EXP-0151,Deinococcus radiodurans,acidic_hot_spring,"Yellowstone NP, USA",100.0,5.65,67.5,68.5,3250.3,492755659,61.587,Yes,Venus,biofluorescence,1977
+EXP-0152,Pyrolobus fumarii,hypersaline_lake,"Mariana Trench, Pacific",66.14,7.53,141.9,257.2,6558.9,430391424,63.58,Yes,Europa,trace_gas_methane,1988
+EXP-0153,Ferroplasma acidarmanus,deep_sea_sediment,"Dead Sea, Israel",34.08,5.41,93.4,198.4,11649.4,615122373,1.087,No,Icy Moon (Generic),unusual_mineral_pigment,2014
+EXP-0154,Methanopyrus kandleri,polar_ice_sheet,"Lake Vostok, Antarctica",23.26,4.96,175.9,537.2,14071.3,333910026,65.578,No,Europa,molecular_fragment,2016
+EXP-0155,Nanoarchaeum equitans,deep_sea_sediment,"Europa analog, Iceland",1.6,8.73,212.0,250.1,10984.9,505547799,71.949,Yes,Mars,salt_crystal_inclusion,2022
+EXP-0156,Pyrolobus fumarii,acidic_hot_spring,"Enceladus analog, Canada",79.23,1.36,197.5,38.0,10953.2,542762600,19.206,Yes,Titan,unusual_mineral_pigment,1981
+EXP-0157,Chroococcidiopsis thermalis,hydrothermal_vent,"Enceladus analog, Canada",81.09,5.88,314.6,267.8,1113.2,141674153,48.759,No,Titan,UV_absorption_signature,1957
+EXP-0158,Candidatus Dormibacteraeota,salt_crystal,"Mono Lake, USA",35.83,9.48,261.0,347.4,906.3,369935053,66.537,Yes,Mars,UV_absorption_signature,2007
+EXP-0159,Sulfolobus acidocaldarius,permafrost,"Danakil Depression, Ethiopia",5.38,1.99,224.5,437.8,19275.7,402074352,94.321,No,Mars,molecular_fragment,1999
+EXP-0160,Sulfolobus acidocaldarius,desert_crust,"Danakil Depression, Ethiopia",-3.27,11.42,137.6,77.3,19574.5,3729418,71.837,No,Venus,organic_polymer,1984
+EXP-0161,Chroococcidiopsis thermalis,hydrothermal_vent,"Lake Vostok, Antarctica",14.9,4.31,96.5,562.5,14500.6,121166015,3.062,No,Europa,unusual_mineral_pigment,1967
+EXP-0162,Tardigrade (Ramazzottius),deep_sea_sediment,"Dead Sea, Israel",63.75,5.41,235.2,523.5,4895.1,47498829,38.216,Yes,Europa,UV_absorption_signature,1984
+EXP-0163,Colwellia psychrerythraea,desert_crust,"Lake Vostok, Antarctica",95.03,8.55,111.6,359.2,13450.8,344311549,22.507,Yes,Titan,UV_absorption_signature,1990
+EXP-0164,Methanopyrus kandleri,permafrost,"Enceladus analog, Canada",-11.4,10.93,307.9,547.0,12520.0,458703134,52.806,Yes,Enceladus,organic_polymer,2007
+EXP-0165,Nanoarchaeum equitans,hypersaline_lake,"Dead Sea, Israel",1.04,4.64,264.0,284.6,16986.9,322913265,81.467,Yes,Venus,organic_polymer,2008
+EXP-0166,Tardigrade (Ramazzottius),deep_sea_sediment,"Dead Sea, Israel",58.58,1.98,85.0,122.8,12934.3,482954921,80.478,Yes,Enceladus,organic_polymer,1960
+EXP-0167,Acidithiobacillus ferrooxidans,hydrothermal_vent,"Lake Vostok, Antarctica",103.18,2.57,266.6,434.9,11177.2,514745611,19.845,No,Europa,unusual_mineral_pigment,2016
+EXP-0168,Sulfolobus acidocaldarius,desert_crust,"Mariana Trench, Pacific",108.94,8.15,246.3,238.6,4787.0,345331486,73.674,No,Enceladus,UV_absorption_signature,2001
+EXP-0169,Methanopyrus kandleri,permafrost,"Dead Sea, Israel",52.31,5.97,34.5,588.8,9390.1,343847871,86.861,No,Venus,biofluorescence,1973
+EXP-0170,Chroococcidiopsis thermalis,deep_sea_sediment,"Mono Lake, USA",-17.71,6.59,204.4,432.3,5904.2,210659327,31.338,No,Venus,isotopic_fractionation,1987
+EXP-0171,Pyrolobus fumarii,desert_crust,"Mono Lake, USA",87.63,5.87,253.2,444.0,9216.8,786808193,75.523,Yes,Europa,trace_gas_methane,2022
+EXP-0172,Haloarcula marismortui,subglacial_lake,"Dead Sea, Israel",-15.23,9.81,330.8,401.3,15286.9,442802780,13.063,Yes,Europa,salt_crystal_inclusion,2002
+EXP-0173,Deinococcus radiodurans,hydrothermal_vent,"Enceladus analog, Canada",-11.48,7.52,326.9,547.7,13185.9,16891858,0.629,No,Icy Moon (Generic),UV_absorption_signature,2023
+EXP-0174,Tardigrade (Ramazzottius),subglacial_lake,"Lake Vostok, Antarctica",117.82,0.69,284.6,404.7,16123.5,192486309,10.167,Yes,Europa,UV_absorption_signature,2000
+EXP-0175,Colwellia psychrerythraea,hydrothermal_vent,"Great Salt Lake, USA",17.69,4.87,130.6,244.2,11300.3,748651793,21.457,Yes,Titan,organic_polymer,2003
+EXP-0176,Chroococcidiopsis thermalis,salt_crystal,"Enceladus analog, Canada",57.93,1.12,3.3,103.7,9997.4,465906942,61.267,No,Mars,biofluorescence,1982
+EXP-0177,Pyrolobus fumarii,acidic_hot_spring,"Dead Sea, Israel",107.08,8.12,198.4,163.4,18483.2,734899764,87.931,Yes,Europa,molecular_fragment,2005
+EXP-0178,Halobacterium salinarum,subglacial_lake,"Great Salt Lake, USA",110.97,3.79,197.4,340.5,16988.9,726960760,85.17,No,Venus,isotopic_fractionation,1961
+EXP-0179,Deinococcus radiodurans,stratosphere,"Mono Lake, USA",-6.23,3.05,26.6,363.5,12277.5,639529934,37.687,No,Titan,biofluorescence,2000
+EXP-0180,Ferroplasma acidarmanus,salt_crystal,"Great Salt Lake, USA",57.98,4.63,65.0,351.9,7601.8,829108438,58.769,Yes,Enceladus,molecular_fragment,2003
+EXP-0181,Methanopyrus kandleri,stratosphere,"Great Salt Lake, USA",80.35,7.47,258.9,190.7,2131.5,5578325,89.581,No,Europa,unusual_mineral_pigment,1978
+EXP-0182,Desulforudis audaxviator,permafrost,"Dead Sea, Israel",40.77,6.63,179.4,62.9,1792.8,595088988,8.842,No,Enceladus,organic_polymer,2004
+EXP-0183,Pyrolobus fumarii,subglacial_lake,"Yellowstone NP, USA",89.86,8.47,195.8,595.6,4855.2,559531735,16.111,No,Enceladus,UV_absorption_signature,2018
+EXP-0184,Ferroplasma acidarmanus,hypersaline_lake,"Europa analog, Iceland",0.58,2.34,96.6,180.6,15653.4,387754928,23.912,Yes,Venus,biofluorescence,2013
+EXP-0185,Desulforudis audaxviator,polar_ice_sheet,"Atacama Desert, Chile",-4.92,3.85,332.1,200.0,12404.0,353842724,41.822,No,Enceladus,isotopic_fractionation,1980
+EXP-0186,Methanopyrus kandleri,permafrost,"Yellowstone NP, USA",47.54,2.45,139.4,192.2,14697.6,679573844,46.646,Yes,Titan,isotopic_fractionation,1969
+EXP-0187,Ferroplasma acidarmanus,deep_sea_sediment,"Mono Lake, USA",111.42,2.7,349.0,108.8,15352.5,28900947,90.535,No,Enceladus,unusual_mineral_pigment,2007
+EXP-0188,Sulfolobus acidocaldarius,polar_ice_sheet,"Mono Lake, USA",74.89,2.03,106.0,152.4,3083.3,454330181,74.963,Yes,Venus,organic_polymer,2023
+EXP-0189,Haloarcula marismortui,deep_sea_sediment,"Mariana Trench, Pacific",51.43,10.62,242.1,326.6,15814.5,386041851,66.656,Yes,Europa,trace_gas_methane,2006
+EXP-0190,Sulfolobus acidocaldarius,acidic_hot_spring,"Danakil Depression, Ethiopia",116.32,4.15,278.7,64.5,1972.6,238371848,48.515,Yes,Titan,molecular_fragment,1999
+EXP-0191,Methanopyrus kandleri,hypersaline_lake,"Lake Vostok, Antarctica",120.68,5.81,103.4,552.4,1717.6,783993371,13.46,No,Venus,salt_crystal_inclusion,1999
+EXP-0192,Colwellia psychrerythraea,salt_crystal,"Atacama Desert, Chile",47.14,5.32,243.9,192.0,6005.6,763193133,10.934,No,Icy Moon (Generic),biofluorescence,2021
+EXP-0193,Colwellia psychrerythraea,permafrost,"Danakil Depression, Ethiopia",4.6,2.26,195.9,575.1,4637.5,434916369,59.828,Yes,Mars,biofluorescence,2012
+EXP-0194,Methanopyrus kandleri,acidic_hot_spring,"Lake Vostok, Antarctica",63.5,4.78,246.7,124.3,15046.6,67177313,54.848,Yes,Titan,unusual_mineral_pigment,1988
+EXP-0195,Methanopyrus kandleri,hypersaline_lake,"Europa analog, Iceland",74.57,5.88,338.1,188.7,7773.1,421490917,55.766,No,Europa,UV_absorption_signature,1965
+EXP-0196,Chroococcidiopsis thermalis,subglacial_lake,"Europa analog, Iceland",74.77,3.95,83.5,71.1,7466.4,151782583,48.529,No,Titan,organic_polymer,1978
+EXP-0197,Pyrolobus fumarii,acidic_hot_spring,"Mono Lake, USA",48.62,6.41,321.7,558.5,3465.1,179170492,46.517,Yes,Venus,trace_gas_methane,2000
+EXP-0198,Halobacterium salinarum,hypersaline_lake,"Mono Lake, USA",114.21,5.83,68.3,231.0,11231.9,701228320,47.023,No,Europa,unusual_mineral_pigment,1958
+EXP-0199,Tardigrade (Ramazzottius),desert_crust,"Great Salt Lake, USA",92.22,2.93,11.4,135.7,5773.8,491045103,53.737,No,Venus,unusual_mineral_pigment,1989
+EXP-0200,Halobacterium salinarum,salt_crystal,"Lake Vostok, Antarctica",89.29,9.56,128.4,493.7,832.7,771999154,41.93,Yes,Enceladus,trace_gas_methane,2012

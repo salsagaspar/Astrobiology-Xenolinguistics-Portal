@@ -1,0 +1,22 @@
+# Ignore Python virtual environment and caches
+backend/.venv/
+backend/__pycache__/
+backend/*.pkl
+backend/*.index
+backend/*.json
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Ignore Node dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Ignore IDE and Git directories
+.git/
+.gitignore
+.dockerignore
+.vscode/
+.idea/
+*.md
